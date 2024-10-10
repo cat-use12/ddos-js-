@@ -1,0 +1,845 @@
+Mozilla/5.0 (Windows CE/6.0; x86; de-DE) AppleWebKit/71.0 (KHTML, like Gecko) Slimjet/71.0 Safari/71.0
+Mozilla/5.0 (Linux/ARM; en-US) AppleWebKit/94.0 (KHTML, like Gecko) Edge/94.0 Safari/94.0
+Mozilla/5.0 (Windows CE/5.0; x86; fr-FR) AppleWebKit/61.0 (KHTML, like Gecko) Slimjet/61.0 Safari/61.0
+Mozilla/5.0 (X11/Gentoo; x86; de-DE) AppleWebKit/72.0 (KHTML, like Gecko) Internet Explorer/72.0 Safari/72.0
+Mozilla/5.0 (Symbian/Belle; x86; de-DE) AppleWebKit/81.0 (KHTML, like Gecko) Torch Browser/81.0 Safari/81.0
+Mozilla/5.0 (Symbian/Anna; ARM; en-GB) AppleWebKit/89.0 (KHTML, like Gecko) Waterfox/89.0 Safari/89.0
+Mozilla/5.0 (BlackBerry/6.0; ARM; en-GB) AppleWebKit/89.0 (KHTML, like Gecko) SeaMonkey/89.0 Safari/89.0
+Mozilla/5.0 (Tizen/4.0; ARM; fr-FR) AppleWebKit/83.0 (KHTML, like Gecko) Yandex Browser/83.0 Safari/83.0
+Mozilla/5.0 (Chrome OS/13421.61.0; x86_64; de-DE) AppleWebKit/91.0 (KHTML, like Gecko) Chrome/91.0 Safari/91.0
+Mozilla/5.0 (Android/Android 7; x86_64; en-US) AppleWebKit/62.0 (KHTML, like Gecko) Internet Explorer/62.0 Safari/62.0
+Mozilla/5.0 (Symbian/Belle; ARM; fr-FR) AppleWebKit/81.0 (KHTML, like Gecko) Avast Secure Browser/81.0 Safari/81.0
+Mozilla/5.0 (Tizen/2.4; ARM; de-DE) AppleWebKit/85.0 (KHTML, like Gecko) Torch Browser/85.0 Safari/85.0
+Mozilla/5.0 (Symbian/S60; x86; en-GB) AppleWebKit/95.0 (KHTML, like Gecko) Torch Browser/95.0 Safari/95.0
+Mozilla/5.0 (Macintosh/68K; x86_64; en-GB) AppleWebKit/92.0 (KHTML, like Gecko) Otter Browser/92.0 Safari/92.0
+Mozilla/5.0 (Windows CE/5.0; ARM; en-GB) AppleWebKit/65.0 (KHTML, like Gecko) Torch Browser/65.0 Safari/65.0
+Mozilla/5.0 (Linux/x86_64; en-US) AppleWebKit/50.0 (KHTML, like Gecko) Waterfox/50.0 Safari/50.0
+Mozilla/5.0 (webOS/3.0; ARM; en-GB) AppleWebKit/67.0 (KHTML, like Gecko) IceCat/67.0 Safari/67.0
+Mozilla/5.0 (Bada/2.0; ARM; en-US) AppleWebKit/82.0 (KHTML, like Gecko) Konqueror/82.0 Safari/82.0
+Mozilla/5.0 (Linux/x86_64; de-DE) AppleWebKit/89.0 (KHTML, like Gecko) Maxthon/89.0 Safari/89.0
+Mozilla/5.0 (BlackBerry/10.2; x86; fr-FR) AppleWebKit/57.0 (KHTML, like Gecko) Edge/57.0 Safari/57.0
+Mozilla/5.0 (BlackBerry/6.0; x86; en-GB) AppleWebKit/90.0 (KHTML, like Gecko) Samsung Internet/90.0 Safari/90.0
+Mozilla/5.0 (Windows Phone/7.5; ARM; de-DE) AppleWebKit/68.0 (KHTML, like Gecko) Maxthon/68.0 Safari/68.0
+Mozilla/5.0 (Linux/ARM64; de-DE) AppleWebKit/55.0 (KHTML, like Gecko) Safari/55.0 Safari/55.0
+Mozilla/5.0 (Tizen/4.0; ARM; fr-FR) AppleWebKit/77.0 (KHTML, like Gecko) Edge/77.0 Safari/77.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_12_6; x86_64; en-US) AppleWebKit/58.0 (KHTML, like Gecko) SeaMonkey/58.0 Safari/58.0
+Mozilla/5.0 (Windows CE/7.0; x86; de-DE) AppleWebKit/85.0 (KHTML, like Gecko) Opera/85.0 Safari/85.0
+Mozilla/5.0 (Android/Android 4; ARM64; en-US) AppleWebKit/85.0 (KHTML, like Gecko) Firefox/85.0 Safari/85.0
+Mozilla/5.0 (Android/Android 9; ARM64; en-GB) AppleWebKit/62.0 (KHTML, like Gecko) Maxthon/62.0 Safari/62.0
+Mozilla/5.0 (Windows CE/6.0; x86; en-US) AppleWebKit/80.0 (KHTML, like Gecko) Epic Privacy Browser/80.0 Safari/80.0
+Mozilla/5.0 (Windows NT/2.1; Win32; de-DE) AppleWebKit/55.0 (KHTML, like Gecko) Internet Explorer/55.0 Safari/55.0
+Mozilla/5.0 (Symbian/S60; x86; en-US) AppleWebKit/66.0 (KHTML, like Gecko) Yandex Browser/66.0 Safari/66.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_12_6; x86; de-DE) AppleWebKit/89.0 (KHTML, like Gecko) SeaMonkey/89.0 Safari/89.0
+Mozilla/5.0 (BlackBerry/10.0; ARM; de-DE) AppleWebKit/66.0 (KHTML, like Gecko) Avast Secure Browser/66.0 Safari/66.0
+Mozilla/5.0 (Chrome OS/13421.61.0; x86_64; de-DE) AppleWebKit/71.0 (KHTML, like Gecko) IceCat/71.0 Safari/71.0
+Mozilla/5.0 (Chrome OS/13421.62.0; x86; en-GB) AppleWebKit/89.0 (KHTML, like Gecko) Internet Explorer/89.0 Safari/89.0
+Mozilla/5.0 (Windows Phone/8.1; ARM; fr-FR) AppleWebKit/84.0 (KHTML, like Gecko) Firefox/84.0 Safari/84.0
+Mozilla/5.0 (Linux/x86; de-DE) AppleWebKit/89.0 (KHTML, like Gecko) Safari/89.0 Safari/89.0
+Mozilla/5.0 (webOS/2.2; ARM; de-DE) AppleWebKit/86.0 (KHTML, like Gecko) Slimjet/86.0 Safari/86.0
+Mozilla/5.0 (webOS/1.0; ARM; de-DE) AppleWebKit/58.0 (KHTML, like Gecko) Konqueror/58.0 Safari/58.0
+Mozilla/5.0 (Windows CE/5.0; x86; fr-FR) AppleWebKit/93.0 (KHTML, like Gecko) Edge/93.0 Safari/93.0
+Mozilla/5.0 (X11/Gentoo; x86_64; fr-FR) AppleWebKit/73.0 (KHTML, like Gecko) Cent Browser/73.0 Safari/73.0
+Mozilla/5.0 (Windows NT/3.51; Win32; fr-FR) AppleWebKit/72.0 (KHTML, like Gecko) Mozilla/72.0 Safari/72.0
+Mozilla/5.0 (Windows NT/3.0; Win32; fr-FR) AppleWebKit/52.0 (KHTML, like Gecko) UC Browser/52.0 Safari/52.0
+Mozilla/5.0 (Chrome OS/13421.64.0; x86_64; fr-FR) AppleWebKit/92.0 (KHTML, like Gecko) Torch Browser/92.0 Safari/92.0
+Mozilla/5.0 (Chrome OS/13421.66.0; x86_64; en-US) AppleWebKit/60.0 (KHTML, like Gecko) Internet Explorer/60.0 Safari/60.0
+Mozilla/5.0 (Chrome OS/13421.65.0; x86; en-GB) AppleWebKit/83.0 (KHTML, like Gecko) Pale Moon/83.0 Safari/83.0
+Mozilla/5.0 (Bada/2.0; ARM; fr-FR) AppleWebKit/84.0 (KHTML, like Gecko) Otter Browser/84.0 Safari/84.0
+Mozilla/5.0 (Windows Phone/7.5; ARM; en-US) AppleWebKit/70.0 (KHTML, like Gecko) Brave/70.0 Safari/70.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_15_7; x86_64; en-US) AppleWebKit/63.0 (KHTML, like Gecko) Cent Browser/63.0 Safari/63.0
+Mozilla/5.0 (Chrome OS/13421.64.0; x86; en-US) AppleWebKit/70.0 (KHTML, like Gecko) GreenBrowser/70.0 Safari/70.0
+Mozilla/5.0 (Android/Android 4; x86; en-US) AppleWebKit/74.0 (KHTML, like Gecko) Brave/74.0 Safari/74.0
+Mozilla/5.0 (Chrome OS/13421.60.0; x86; en-US) AppleWebKit/73.0 (KHTML, like Gecko) Maxthon/73.0 Safari/73.0
+Mozilla/5.0 (Android/Android 12; x86; en-GB) AppleWebKit/96.0 (KHTML, like Gecko) SeaMonkey/96.0 Safari/96.0
+Mozilla/5.0 (Windows NT/2.11; Win32; de-DE) AppleWebKit/63.0 (KHTML, like Gecko) Internet Explorer/63.0 Safari/63.0
+Mozilla/5.0 (Tizen/3.0; ARM; en-US) AppleWebKit/55.0 (KHTML, like Gecko) Slimjet/55.0 Safari/55.0
+Mozilla/5.0 (webOS/2.2; ARM; de-DE) AppleWebKit/77.0 (KHTML, like Gecko) Waterfox/77.0 Safari/77.0
+Mozilla/5.0 (Android/Android 11; ARM; en-GB) AppleWebKit/72.0 (KHTML, like Gecko) Internet Explorer/72.0 Safari/72.0
+Mozilla/5.0 (Tizen/3.0; ARM; en-GB) AppleWebKit/51.0 (KHTML, like Gecko) Safari/51.0 Safari/51.0
+Mozilla/5.0 (Android/Android 6; ARM64; en-US) AppleWebKit/71.0 (KHTML, like Gecko) Netscape/71.0 Safari/71.0
+Mozilla/5.0 (Tizen/2.4; ARM; en-US) AppleWebKit/97.0 (KHTML, like Gecko) Yandex Browser/97.0 Safari/97.0
+Mozilla/5.0 (Tizen/2.4; ARM; de-DE) AppleWebKit/66.0 (KHTML, like Gecko) Qutebrowser/66.0 Safari/66.0
+Mozilla/5.0 (Windows CE/6.0; x86; en-US) AppleWebKit/66.0 (KHTML, like Gecko) Maxthon/66.0 Safari/66.0
+Mozilla/5.0 (Linux/x86_64; de-DE) AppleWebKit/74.0 (KHTML, like Gecko) 360 Secure Browser/74.0 Safari/74.0
+Mozilla/5.0 (Symbian/Belle; ARM; en-US) AppleWebKit/63.0 (KHTML, like Gecko) Lunascape/63.0 Safari/63.0
+Mozilla/5.0 (Android/Android 12; x86; en-US) AppleWebKit/54.0 (KHTML, like Gecko) 360 Secure Browser/54.0 Safari/54.0
+Mozilla/5.0 (Windows NT/3.51; Win64; en-GB) AppleWebKit/83.0 (KHTML, like Gecko) UC Browser/83.0 Safari/83.0
+Mozilla/5.0 (Symbian/Belle; ARM; en-US) AppleWebKit/50.0 (KHTML, like Gecko) Maxthon/50.0 Safari/50.0
+Mozilla/5.0 (Windows Phone/7.5; ARM; en-US) AppleWebKit/60.0 (KHTML, like Gecko) Lunascape/60.0 Safari/60.0
+Mozilla/5.0 (Symbian/Anna; x86; de-DE) AppleWebKit/55.0 (KHTML, like Gecko) Samsung Internet/55.0 Safari/55.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_11_6; x86; fr-FR) AppleWebKit/77.0 (KHTML, like Gecko) Torch Browser/77.0 Safari/77.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_11_6; x86; fr-FR) AppleWebKit/50.0 (KHTML, like Gecko) Safari/50.0 Safari/50.0
+Mozilla/5.0 (webOS/3.0; ARM; fr-FR) AppleWebKit/99.0 (KHTML, like Gecko) Pale Moon/99.0 Safari/99.0
+Mozilla/5.0 (Linux/x86; en-GB) AppleWebKit/85.0 (KHTML, like Gecko) Edge/85.0 Safari/85.0
+Mozilla/5.0 (X11/Ubuntu; x86; fr-FR) AppleWebKit/65.0 (KHTML, like Gecko) Otter Browser/65.0 Safari/65.0
+Mozilla/5.0 (BlackBerry/7.1; x86; en-US) AppleWebKit/58.0 (KHTML, like Gecko) Lunascape/58.0 Safari/58.0
+Mozilla/5.0 (Windows NT/3.0; Win32; en-US) AppleWebKit/98.0 (KHTML, like Gecko) Firefox/98.0 Safari/98.0
+Mozilla/5.0 (Windows Phone/7.5; ARM; en-GB) AppleWebKit/89.0 (KHTML, like Gecko) Vivaldi/89.0 Safari/89.0
+Mozilla/5.0 (BlackBerry/6.0; x86; en-GB) AppleWebKit/71.0 (KHTML, like Gecko) Brave/71.0 Safari/71.0
+Mozilla/5.0 (Symbian/Anna; x86; en-US) AppleWebKit/73.0 (KHTML, like Gecko) Maxthon/73.0 Safari/73.0
+Mozilla/5.0 (Windows Phone/10.0; ARM; fr-FR) AppleWebKit/83.0 (KHTML, like Gecko) Epic Privacy Browser/83.0 Safari/83.0
+Mozilla/5.0 (webOS/1.0; ARM; en-US) AppleWebKit/69.0 (KHTML, like Gecko) Midori/69.0 Safari/69.0
+Mozilla/5.0 (Android/Android 11; ARM64; fr-FR) AppleWebKit/86.0 (KHTML, like Gecko) Edge/86.0 Safari/86.0
+Mozilla/5.0 (Windows NT/1.0; Win32; en-US) AppleWebKit/62.0 (KHTML, like Gecko) Edge/62.0 Safari/62.0
+Mozilla/5.0 (webOS/1.0; ARM; de-DE) AppleWebKit/62.0 (KHTML, like Gecko) Edge/62.0 Safari/62.0
+Mozilla/5.0 (Windows NT/10.0; Win64; en-GB) AppleWebKit/50.0 (KHTML, like Gecko) Slimjet/50.0 Safari/50.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_12_6; x86; fr-FR) AppleWebKit/69.0 (KHTML, like Gecko) Samsung Internet/69.0 Safari/69.0
+Mozilla/5.0 (Tizen/3.0; ARM; de-DE) AppleWebKit/67.0 (KHTML, like Gecko) UC Browser/67.0 Safari/67.0
+Mozilla/5.0 (webOS/1.0; ARM; en-US) AppleWebKit/77.0 (KHTML, like Gecko) Yandex Browser/77.0 Safari/77.0
+Mozilla/5.0 (Symbian/Anna; ARM; de-DE) AppleWebKit/90.0 (KHTML, like Gecko) Chrome/90.0 Safari/90.0
+Mozilla/5.0 (Macintosh/PPC Mac OS X 10_4_11; x86; en-GB) AppleWebKit/71.0 (KHTML, like Gecko) Mozilla/71.0 Safari/71.0
+Mozilla/5.0 (BlackBerry/10.3; x86; de-DE) AppleWebKit/89.0 (KHTML, like Gecko) Safari/89.0 Safari/89.0
+Mozilla/5.0 (Bada/2.0; ARM; en-US) AppleWebKit/75.0 (KHTML, like Gecko) Konqueror/75.0 Safari/75.0
+Mozilla/5.0 (X11/Linux Mint; x86; fr-FR) AppleWebKit/89.0 (KHTML, like Gecko) Brave/89.0 Safari/89.0
+Mozilla/5.0 (Windows Phone/7.5; ARM; de-DE) AppleWebKit/77.0 (KHTML, like Gecko) Lunascape/77.0 Safari/77.0
+Mozilla/5.0 (Symbian/S60; x86; de-DE) AppleWebKit/55.0 (KHTML, like Gecko) Qutebrowser/55.0 Safari/55.0
+Mozilla/5.0 (Linux/ARM; en-US) AppleWebKit/88.0 (KHTML, like Gecko) Netscape/88.0 Safari/88.0
+Mozilla/5.0 (Windows Phone/7.5; ARM; fr-FR) AppleWebKit/72.0 (KHTML, like Gecko) GreenBrowser/72.0 Safari/72.0
+Mozilla/5.0 (X11/CentOS; x86; en-GB) AppleWebKit/55.0 (KHTML, like Gecko) Samsung Internet/55.0 Safari/55.0
+Mozilla/5.0 (Windows CE/7.0; ARM; en-US) AppleWebKit/64.0 (KHTML, like Gecko) Lunascape/64.0 Safari/64.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_14_6; x86_64; en-GB) AppleWebKit/98.0 (KHTML, like Gecko) Netscape/98.0 Safari/98.0
+Mozilla/5.0 (Linux/x86_64; en-GB) AppleWebKit/63.0 (KHTML, like Gecko) Samsung Internet/63.0 Safari/63.0
+Mozilla/5.0 (BlackBerry/10.2; ARM; fr-FR) AppleWebKit/61.0 (KHTML, like Gecko) Epic Privacy Browser/61.0 Safari/61.0
+Mozilla/5.0 (webOS/1.4; ARM; de-DE) AppleWebKit/50.0 (KHTML, like Gecko) UC Browser/50.0 Safari/50.0
+Mozilla/5.0 (X11/CentOS; x86_64; en-US) AppleWebKit/90.0 (KHTML, like Gecko) Yandex Browser/90.0 Safari/90.0
+Mozilla/5.0 (Windows Phone/7.5; ARM; fr-FR) AppleWebKit/75.0 (KHTML, like Gecko) Chrome/75.0 Safari/75.0
+Mozilla/5.0 (Windows CE/5.0; ARM; en-GB) AppleWebKit/52.0 (KHTML, like Gecko) Netscape/52.0 Safari/52.0
+Mozilla/5.0 (Linux/x86; en-US) AppleWebKit/86.0 (KHTML, like Gecko) Avast Secure Browser/86.0 Safari/86.0
+Mozilla/5.0 (Chrome OS/13421.64.0; x86; fr-FR) AppleWebKit/52.0 (KHTML, like Gecko) Yandex Browser/52.0 Safari/52.0
+Mozilla/5.0 (webOS/1.4; ARM; de-DE) AppleWebKit/54.0 (KHTML, like Gecko) Cent Browser/54.0 Safari/54.0
+Mozilla/5.0 (Macintosh/Intel; x86; en-US) AppleWebKit/87.0 (KHTML, like Gecko) Cent Browser/87.0 Safari/87.0
+Mozilla/5.0 (BlackBerry/10.3; x86; de-DE) AppleWebKit/87.0 (KHTML, like Gecko) Otter Browser/87.0 Safari/87.0
+Mozilla/5.0 (Chrome OS/13421.65.0; x86_64; fr-FR) AppleWebKit/95.0 (KHTML, like Gecko) Chrome/95.0 Safari/95.0
+Mozilla/5.0 (Windows CE/5.0; x86; fr-FR) AppleWebKit/53.0 (KHTML, like Gecko) Mozilla/53.0 Safari/53.0
+Mozilla/5.0 (BlackBerry/7.1; ARM; de-DE) AppleWebKit/98.0 (KHTML, like Gecko) Safari/98.0 Safari/98.0
+Mozilla/5.0 (Linux/x86; en-US) AppleWebKit/55.0 (KHTML, like Gecko) Safari/55.0 Safari/55.0
+Mozilla/5.0 (Chrome OS/13421.61.0; x86_64; fr-FR) AppleWebKit/80.0 (KHTML, like Gecko) Lunascape/80.0 Safari/80.0
+Mozilla/5.0 (Tizen/2.4; ARM; de-DE) AppleWebKit/78.0 (KHTML, like Gecko) Vivaldi/78.0 Safari/78.0
+Mozilla/5.0 (Bada/1.2; ARM; en-GB) AppleWebKit/51.0 (KHTML, like Gecko) Safari/51.0 Safari/51.0
+Mozilla/5.0 (Macintosh/PPC Mac OS X 10_4_11; x86; de-DE) AppleWebKit/81.0 (KHTML, like Gecko) Slimjet/81.0 Safari/81.0
+Mozilla/5.0 (BlackBerry/10.0; x86; fr-FR) AppleWebKit/54.0 (KHTML, like Gecko) Chrome/54.0 Safari/54.0
+Mozilla/5.0 (webOS/1.0; ARM; en-US) AppleWebKit/96.0 (KHTML, like Gecko) Pale Moon/96.0 Safari/96.0
+Mozilla/5.0 (Linux/x86_64; en-US) AppleWebKit/62.0 (KHTML, like Gecko) Samsung Internet/62.0 Safari/62.0
+Mozilla/5.0 (Linux/x86; en-US) AppleWebKit/71.0 (KHTML, like Gecko) Vivaldi/71.0 Safari/71.0
+Mozilla/5.0 (Linux/x86_64; en-US) AppleWebKit/77.0 (KHTML, like Gecko) Torch Browser/77.0 Safari/77.0
+Mozilla/5.0 (Chrome OS/13421.66.0; x86; en-GB) AppleWebKit/51.0 (KHTML, like Gecko) UC Browser/51.0 Safari/51.0
+Mozilla/5.0 (Windows NT/5.2; Win64; en-US) AppleWebKit/95.0 (KHTML, like Gecko) 360 Secure Browser/95.0 Safari/95.0
+Mozilla/5.0 (Windows CE/6.0; x86; de-DE) AppleWebKit/95.0 (KHTML, like Gecko) 360 Secure Browser/95.0 Safari/95.0
+Mozilla/5.0 (Macintosh/PowerPC; x86; fr-FR) AppleWebKit/88.0 (KHTML, like Gecko) Otter Browser/88.0 Safari/88.0
+Mozilla/5.0 (Bada/1.2; ARM; fr-FR) AppleWebKit/61.0 (KHTML, like Gecko) Maxthon/61.0 Safari/61.0
+Mozilla/5.0 (Windows CE/7.0; ARM; en-US) AppleWebKit/99.0 (KHTML, like Gecko) IceCat/99.0 Safari/99.0
+Mozilla/5.0 (Linux/x86_64; fr-FR) AppleWebKit/92.0 (KHTML, like Gecko) 360 Secure Browser/92.0 Safari/92.0
+Mozilla/5.0 (Linux/ARM64; en-GB) AppleWebKit/72.0 (KHTML, like Gecko) Mozilla/72.0 Safari/72.0
+Mozilla/5.0 (Symbian/Anna; x86; de-DE) AppleWebKit/63.0 (KHTML, like Gecko) 360 Secure Browser/63.0 Safari/63.0
+Mozilla/5.0 (Bada/2.0; ARM; en-US) AppleWebKit/95.0 (KHTML, like Gecko) Epic Privacy Browser/95.0 Safari/95.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_12_6; x86; en-US) AppleWebKit/88.0 (KHTML, like Gecko) Safari/88.0 Safari/88.0
+Mozilla/5.0 (Linux/x86_64; fr-FR) AppleWebKit/71.0 (KHTML, like Gecko) Midori/71.0 Safari/71.0
+Mozilla/5.0 (Symbian/Anna; x86; en-GB) AppleWebKit/78.0 (KHTML, like Gecko) Qutebrowser/78.0 Safari/78.0
+Mozilla/5.0 (BlackBerry/10.3; x86; en-US) AppleWebKit/67.0 (KHTML, like Gecko) UC Browser/67.0 Safari/67.0
+Mozilla/5.0 (Windows Phone/8.1; ARM; en-GB) AppleWebKit/72.0 (KHTML, like Gecko) Slimjet/72.0 Safari/72.0
+Mozilla/5.0 (Android/Android 7; ARM64; en-US) AppleWebKit/65.0 (KHTML, like Gecko) Netscape/65.0 Safari/65.0
+Mozilla/5.0 (Chrome OS/13421.65.0; x86_64; de-DE) AppleWebKit/78.0 (KHTML, like Gecko) Midori/78.0 Safari/78.0
+Mozilla/5.0 (Tizen/2.3; ARM; de-DE) AppleWebKit/80.0 (KHTML, like Gecko) Safari/80.0 Safari/80.0
+Mozilla/5.0 (Bada/1.2; ARM; de-DE) AppleWebKit/63.0 (KHTML, like Gecko) Maxthon/63.0 Safari/63.0
+Mozilla/5.0 (Android/Android 6; x86_64; en-GB) AppleWebKit/88.0 (KHTML, like Gecko) Midori/88.0 Safari/88.0
+Mozilla/5.0 (webOS/1.4; ARM; en-US) AppleWebKit/99.0 (KHTML, like Gecko) Mozilla/99.0 Safari/99.0
+Mozilla/5.0 (Symbian/Belle; ARM; de-DE) AppleWebKit/62.0 (KHTML, like Gecko) Pale Moon/62.0 Safari/62.0
+Mozilla/5.0 (Android/Android 4; x86_64; de-DE) AppleWebKit/86.0 (KHTML, like Gecko) IceCat/86.0 Safari/86.0
+Mozilla/5.0 (BlackBerry/10.0; ARM; fr-FR) AppleWebKit/94.0 (KHTML, like Gecko) Waterfox/94.0 Safari/94.0
+Mozilla/5.0 (Symbian/S60; x86; fr-FR) AppleWebKit/51.0 (KHTML, like Gecko) Pale Moon/51.0 Safari/51.0
+Mozilla/5.0 (Bada/1.2; ARM; de-DE) AppleWebKit/57.0 (KHTML, like Gecko) Samsung Internet/57.0 Safari/57.0
+Mozilla/5.0 (Chrome OS/13421.66.0; x86_64; de-DE) AppleWebKit/69.0 (KHTML, like Gecko) GreenBrowser/69.0 Safari/69.0
+Mozilla/5.0 (Macintosh/Intel; x86_64; en-GB) AppleWebKit/79.0 (KHTML, like Gecko) Chrome/79.0 Safari/79.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_15_7; x86; en-GB) AppleWebKit/85.0 (KHTML, like Gecko) SeaMonkey/85.0 Safari/85.0
+Mozilla/5.0 (X11/Gentoo; x86; fr-FR) AppleWebKit/62.0 (KHTML, like Gecko) Konqueror/62.0 Safari/62.0
+Mozilla/5.0 (Tizen/2.4; ARM; fr-FR) AppleWebKit/91.0 (KHTML, like Gecko) Torch Browser/91.0 Safari/91.0
+Mozilla/5.0 (BlackBerry/10.0; x86; en-US) AppleWebKit/88.0 (KHTML, like Gecko) Pale Moon/88.0 Safari/88.0
+Mozilla/5.0 (Bada/1.2; ARM; en-US) AppleWebKit/81.0 (KHTML, like Gecko) Cent Browser/81.0 Safari/81.0
+Mozilla/5.0 (Linux/ARM64; de-DE) AppleWebKit/90.0 (KHTML, like Gecko) Yandex Browser/90.0 Safari/90.0
+Mozilla/5.0 (Chrome OS/13421.64.0; x86_64; en-GB) AppleWebKit/75.0 (KHTML, like Gecko) Samsung Internet/75.0 Safari/75.0
+Mozilla/5.0 (Linux/ARM64; en-US) AppleWebKit/78.0 (KHTML, like Gecko) UC Browser/78.0 Safari/78.0
+Mozilla/5.0 (Android/Android 11; x86; de-DE) AppleWebKit/69.0 (KHTML, like Gecko) Internet Explorer/69.0 Safari/69.0
+Mozilla/5.0 (Android/Android 7; ARM; fr-FR) AppleWebKit/63.0 (KHTML, like Gecko) Lunascape/63.0 Safari/63.0
+Mozilla/5.0 (Windows Phone/7.0; ARM; fr-FR) AppleWebKit/78.0 (KHTML, like Gecko) UC Browser/78.0 Safari/78.0
+Mozilla/5.0 (Windows Phone/7.0; ARM; fr-FR) AppleWebKit/50.0 (KHTML, like Gecko) Otter Browser/50.0 Safari/50.0
+Mozilla/5.0 (Chrome OS/13421.60.0; x86; en-US) AppleWebKit/66.0 (KHTML, like Gecko) Internet Explorer/66.0 Safari/66.0
+Mozilla/5.0 (Chrome OS/13421.60.0; x86_64; en-GB) AppleWebKit/54.0 (KHTML, like Gecko) Torch Browser/54.0 Safari/54.0
+Mozilla/5.0 (Symbian/S60; ARM; en-US) AppleWebKit/65.0 (KHTML, like Gecko) GreenBrowser/65.0 Safari/65.0
+Mozilla/5.0 (Windows CE/5.0; ARM; en-US) AppleWebKit/71.0 (KHTML, like Gecko) Slimjet/71.0 Safari/71.0
+Mozilla/5.0 (Bada/1.0; ARM; en-GB) AppleWebKit/79.0 (KHTML, like Gecko) Mozilla/79.0 Safari/79.0
+Mozilla/5.0 (Windows CE/6.0; x86; en-US) AppleWebKit/91.0 (KHTML, like Gecko) Epic Privacy Browser/91.0 Safari/91.0
+Mozilla/5.0 (Windows Phone/7.5; ARM; en-GB) AppleWebKit/57.0 (KHTML, like Gecko) Epic Privacy Browser/57.0 Safari/57.0
+Mozilla/5.0 (Symbian/S60; ARM; en-US) AppleWebKit/82.0 (KHTML, like Gecko) Mozilla/82.0 Safari/82.0
+Mozilla/5.0 (BlackBerry/10.0; x86; en-US) AppleWebKit/95.0 (KHTML, like Gecko) UC Browser/95.0 Safari/95.0
+Mozilla/5.0 (Chrome OS/13421.62.0; x86; en-US) AppleWebKit/91.0 (KHTML, like Gecko) Samsung Internet/91.0 Safari/91.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_14_6; x86; fr-FR) AppleWebKit/93.0 (KHTML, like Gecko) Epic Privacy Browser/93.0 Safari/93.0
+Mozilla/5.0 (Symbian/S60; ARM; de-DE) AppleWebKit/62.0 (KHTML, like Gecko) Avast Secure Browser/62.0 Safari/62.0
+Mozilla/5.0 (X11/Slackware; x86; en-US) AppleWebKit/84.0 (KHTML, like Gecko) Opera/84.0 Safari/84.0
+Mozilla/5.0 (BlackBerry/10.3; x86; fr-FR) AppleWebKit/78.0 (KHTML, like Gecko) Firefox/78.0 Safari/78.0
+Mozilla/5.0 (Bada/2.0; ARM; fr-FR) AppleWebKit/88.0 (KHTML, like Gecko) Chrome/88.0 Safari/88.0
+Mozilla/5.0 (webOS/1.0; ARM; en-US) AppleWebKit/68.0 (KHTML, like Gecko) Mozilla/68.0 Safari/68.0
+Mozilla/5.0 (Tizen/3.0; ARM; fr-FR) AppleWebKit/91.0 (KHTML, like Gecko) Slimjet/91.0 Safari/91.0
+Mozilla/5.0 (webOS/1.4; ARM; en-US) AppleWebKit/76.0 (KHTML, like Gecko) Otter Browser/76.0 Safari/76.0
+Mozilla/5.0 (BlackBerry/7.1; x86; en-US) AppleWebKit/60.0 (KHTML, like Gecko) Mozilla/60.0 Safari/60.0
+Mozilla/5.0 (webOS/2.2; ARM; en-GB) AppleWebKit/72.0 (KHTML, like Gecko) Brave/72.0 Safari/72.0
+Mozilla/5.0 (Windows Phone/7.5; ARM; en-GB) AppleWebKit/50.0 (KHTML, like Gecko) Vivaldi/50.0 Safari/50.0
+Mozilla/5.0 (Chrome OS/13421.66.0; x86; en-US) AppleWebKit/50.0 (KHTML, like Gecko) Midori/50.0 Safari/50.0
+Mozilla/5.0 (Windows CE/7.0; ARM; en-GB) AppleWebKit/92.0 (KHTML, like Gecko) UC Browser/92.0 Safari/92.0
+Mozilla/5.0 (X11/Puppy Linux; x86; en-GB) AppleWebKit/55.0 (KHTML, like Gecko) Yandex Browser/55.0 Safari/55.0
+Mozilla/5.0 (Linux/x86_64; fr-FR) AppleWebKit/58.0 (KHTML, like Gecko) Torch Browser/58.0 Safari/58.0
+Mozilla/5.0 (X11/Chromium OS; x86; de-DE) AppleWebKit/74.0 (KHTML, like Gecko) Torch Browser/74.0 Safari/74.0
+Mozilla/5.0 (BlackBerry/10.0; x86; en-US) AppleWebKit/72.0 (KHTML, like Gecko) GreenBrowser/72.0 Safari/72.0
+Mozilla/5.0 (Tizen/4.0; ARM; fr-FR) AppleWebKit/55.0 (KHTML, like Gecko) Samsung Internet/55.0 Safari/55.0
+Mozilla/5.0 (Tizen/3.0; ARM; de-DE) AppleWebKit/94.0 (KHTML, like Gecko) Yandex Browser/94.0 Safari/94.0
+Mozilla/5.0 (X11/Kali Linux; x86; de-DE) AppleWebKit/77.0 (KHTML, like Gecko) GreenBrowser/77.0 Safari/77.0
+Mozilla/5.0 (Windows Phone/7.5; ARM; de-DE) AppleWebKit/88.0 (KHTML, like Gecko) Safari/88.0 Safari/88.0
+Mozilla/5.0 (X11/Linux Mint; x86_64; fr-FR) AppleWebKit/53.0 (KHTML, like Gecko) Pale Moon/53.0 Safari/53.0
+Mozilla/5.0 (BlackBerry/10.0; x86; en-GB) AppleWebKit/76.0 (KHTML, like Gecko) Netscape/76.0 Safari/76.0
+Mozilla/5.0 (BlackBerry/10.3; ARM; en-US) AppleWebKit/83.0 (KHTML, like Gecko) Samsung Internet/83.0 Safari/83.0
+Mozilla/5.0 (Chrome OS/13421.65.0; x86; de-DE) AppleWebKit/60.0 (KHTML, like Gecko) Cent Browser/60.0 Safari/60.0
+Mozilla/5.0 (webOS/3.0; ARM; de-DE) AppleWebKit/71.0 (KHTML, like Gecko) Otter Browser/71.0 Safari/71.0
+Mozilla/5.0 (Windows Phone/10.0; ARM; en-GB) AppleWebKit/54.0 (KHTML, like Gecko) Waterfox/54.0 Safari/54.0
+Mozilla/5.0 (Tizen/2.4; ARM; en-GB) AppleWebKit/53.0 (KHTML, like Gecko) Yandex Browser/53.0 Safari/53.0
+Mozilla/5.0 (Windows Phone/7.5; ARM; de-DE) AppleWebKit/81.0 (KHTML, like Gecko) Otter Browser/81.0 Safari/81.0
+Mozilla/5.0 (Tizen/4.0; ARM; de-DE) AppleWebKit/81.0 (KHTML, like Gecko) Netscape/81.0 Safari/81.0
+Mozilla/5.0 (X11/BackBox; x86_64; en-US) AppleWebKit/86.0 (KHTML, like Gecko) Internet Explorer/86.0 Safari/86.0
+Mozilla/5.0 (Windows Phone/7.5; ARM; en-US) AppleWebKit/85.0 (KHTML, like Gecko) Pale Moon/85.0 Safari/85.0
+Mozilla/5.0 (Windows NT/5.0; Win64; de-DE) AppleWebKit/64.0 (KHTML, like Gecko) 360 Secure Browser/64.0 Safari/64.0
+Mozilla/5.0 (webOS/3.0; ARM; en-GB) AppleWebKit/61.0 (KHTML, like Gecko) IceCat/61.0 Safari/61.0
+Mozilla/5.0 (webOS/1.4; ARM; en-GB) AppleWebKit/81.0 (KHTML, like Gecko) Vivaldi/81.0 Safari/81.0
+Mozilla/5.0 (webOS/2.2; ARM; en-US) AppleWebKit/60.0 (KHTML, like Gecko) Pale Moon/60.0 Safari/60.0
+Mozilla/5.0 (X11/Zorin OS; x86_64; en-GB) AppleWebKit/51.0 (KHTML, like Gecko) Konqueror/51.0 Safari/51.0
+Mozilla/5.0 (Windows Phone/8.0; ARM; fr-FR) AppleWebKit/81.0 (KHTML, like Gecko) Lunascape/81.0 Safari/81.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_12_6; x86_64; fr-FR) AppleWebKit/63.0 (KHTML, like Gecko) Firefox/63.0 Safari/63.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_13_6; x86; fr-FR) AppleWebKit/62.0 (KHTML, like Gecko) Firefox/62.0 Safari/62.0
+Mozilla/5.0 (Windows Phone/8.1; ARM; en-GB) AppleWebKit/67.0 (KHTML, like Gecko) Midori/67.0 Safari/67.0
+Mozilla/5.0 (Windows CE/6.0; ARM; en-GB) AppleWebKit/68.0 (KHTML, like Gecko) Avast Secure Browser/68.0 Safari/68.0
+Mozilla/5.0 (Windows CE/6.0; x86; en-US) AppleWebKit/53.0 (KHTML, like Gecko) Safari/53.0 Safari/53.0
+Mozilla/5.0 (Android/Android 7; ARM64; en-GB) AppleWebKit/58.0 (KHTML, like Gecko) GreenBrowser/58.0 Safari/58.0
+Mozilla/5.0 (Symbian/Belle; ARM; fr-FR) AppleWebKit/59.0 (KHTML, like Gecko) UC Browser/59.0 Safari/59.0
+Mozilla/5.0 (Windows CE/7.0; x86; en-US) AppleWebKit/78.0 (KHTML, like Gecko) Safari/78.0 Safari/78.0
+Mozilla/5.0 (Chrome OS/13421.64.0; x86_64; fr-FR) AppleWebKit/97.0 (KHTML, like Gecko) Pale Moon/97.0 Safari/97.0
+Mozilla/5.0 (Windows CE/7.0; x86; fr-FR) AppleWebKit/57.0 (KHTML, like Gecko) Slimjet/57.0 Safari/57.0
+Mozilla/5.0 (Windows NT/3.51; Win32; en-US) AppleWebKit/70.0 (KHTML, like Gecko) Otter Browser/70.0 Safari/70.0
+Mozilla/5.0 (Windows NT/5.0; Win32; de-DE) AppleWebKit/74.0 (KHTML, like Gecko) Edge/74.0 Safari/74.0
+Mozilla/5.0 (Chrome OS/13421.67.0; x86; en-US) AppleWebKit/57.0 (KHTML, like Gecko) Otter Browser/57.0 Safari/57.0
+Mozilla/5.0 (Linux/ARM64; fr-FR) AppleWebKit/52.0 (KHTML, like Gecko) Chrome/52.0 Safari/52.0
+Mozilla/5.0 (Chrome OS/13421.60.0; x86_64; en-GB) AppleWebKit/68.0 (KHTML, like Gecko) Avast Secure Browser/68.0 Safari/68.0
+Mozilla/5.0 (Windows CE/7.0; ARM; fr-FR) AppleWebKit/53.0 (KHTML, like Gecko) Epic Privacy Browser/53.0 Safari/53.0
+Mozilla/5.0 (Windows Phone/7.0; ARM; fr-FR) AppleWebKit/58.0 (KHTML, like Gecko) Pale Moon/58.0 Safari/58.0
+Mozilla/5.0 (Chrome OS/13421.60.0; x86; en-US) AppleWebKit/84.0 (KHTML, like Gecko) IceCat/84.0 Safari/84.0
+Mozilla/5.0 (Symbian/S60; x86; de-DE) AppleWebKit/97.0 (KHTML, like Gecko) Epic Privacy Browser/97.0 Safari/97.0
+Mozilla/5.0 (Windows Phone/7.0; ARM; fr-FR) AppleWebKit/63.0 (KHTML, like Gecko) Maxthon/63.0 Safari/63.0
+Mozilla/5.0 (Windows CE/5.0; x86; fr-FR) AppleWebKit/60.0 (KHTML, like Gecko) Internet Explorer/60.0 Safari/60.0
+Mozilla/5.0 (Windows CE/5.0; x86; fr-FR) AppleWebKit/95.0 (KHTML, like Gecko) Qutebrowser/95.0 Safari/95.0
+Mozilla/5.0 (Tizen/2.3; ARM; fr-FR) AppleWebKit/96.0 (KHTML, like Gecko) Mozilla/96.0 Safari/96.0
+Mozilla/5.0 (Windows CE/7.0; ARM; en-GB) AppleWebKit/56.0 (KHTML, like Gecko) Epic Privacy Browser/56.0 Safari/56.0
+Mozilla/5.0 (X11/Fedora; x86_64; de-DE) AppleWebKit/68.0 (KHTML, like Gecko) IceCat/68.0 Safari/68.0
+Mozilla/5.0 (Bada/1.2; ARM; fr-FR) AppleWebKit/82.0 (KHTML, like Gecko) Netscape/82.0 Safari/82.0
+Mozilla/5.0 (Windows NT/10.0; Win64; de-DE) AppleWebKit/71.0 (KHTML, like Gecko) Lunascape/71.0 Safari/71.0
+Mozilla/5.0 (Chrome OS/13421.64.0; x86; en-GB) AppleWebKit/72.0 (KHTML, like Gecko) Internet Explorer/72.0 Safari/72.0
+Mozilla/5.0 (Symbian/S60; x86; en-GB) AppleWebKit/62.0 (KHTML, like Gecko) GreenBrowser/62.0 Safari/62.0
+Mozilla/5.0 (Windows CE/5.0; x86; fr-FR) AppleWebKit/76.0 (KHTML, like Gecko) Netscape/76.0 Safari/76.0
+Mozilla/5.0 (X11/Zorin OS; x86_64; en-GB) AppleWebKit/51.0 (KHTML, like Gecko) IceCat/51.0 Safari/51.0
+Mozilla/5.0 (Linux/ARM; en-GB) AppleWebKit/76.0 (KHTML, like Gecko) 360 Secure Browser/76.0 Safari/76.0
+Mozilla/5.0 (X11/Elementary OS; x86; fr-FR) AppleWebKit/84.0 (KHTML, like Gecko) Lunascape/84.0 Safari/84.0
+Mozilla/5.0 (Windows Phone/8.1; ARM; en-GB) AppleWebKit/64.0 (KHTML, like Gecko) SeaMonkey/64.0 Safari/64.0
+Mozilla/5.0 (Windows CE/7.0; ARM; de-DE) AppleWebKit/97.0 (KHTML, like Gecko) Waterfox/97.0 Safari/97.0
+Mozilla/5.0 (X11/openSUSE; x86_64; fr-FR) AppleWebKit/58.0 (KHTML, like Gecko) Konqueror/58.0 Safari/58.0
+Mozilla/5.0 (Macintosh/PowerPC; x86; de-DE) AppleWebKit/62.0 (KHTML, like Gecko) Lunascape/62.0 Safari/62.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_15_7; x86_64; en-GB) AppleWebKit/51.0 (KHTML, like Gecko) IceCat/51.0 Safari/51.0
+Mozilla/5.0 (Linux/x86; en-GB) AppleWebKit/63.0 (KHTML, like Gecko) Brave/63.0 Safari/63.0
+Mozilla/5.0 (BlackBerry/10.0; ARM; en-GB) AppleWebKit/99.0 (KHTML, like Gecko) IceCat/99.0 Safari/99.0
+Mozilla/5.0 (Windows CE/6.0; ARM; fr-FR) AppleWebKit/63.0 (KHTML, like Gecko) Maxthon/63.0 Safari/63.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_12_6; x86; en-GB) AppleWebKit/71.0 (KHTML, like Gecko) Netscape/71.0 Safari/71.0
+Mozilla/5.0 (Chrome OS/13421.61.0; x86_64; en-GB) AppleWebKit/92.0 (KHTML, like Gecko) Edge/92.0 Safari/92.0
+Mozilla/5.0 (Bada/1.2; ARM; en-GB) AppleWebKit/66.0 (KHTML, like Gecko) Safari/66.0 Safari/66.0
+Mozilla/5.0 (webOS/1.0; ARM; en-US) AppleWebKit/53.0 (KHTML, like Gecko) Vivaldi/53.0 Safari/53.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_13_6; x86_64; fr-FR) AppleWebKit/56.0 (KHTML, like Gecko) Firefox/56.0 Safari/56.0
+Mozilla/5.0 (Windows NT/2.1; Win32; fr-FR) AppleWebKit/87.0 (KHTML, like Gecko) Internet Explorer/87.0 Safari/87.0
+Mozilla/5.0 (Chrome OS/13421.60.0; x86; en-US) AppleWebKit/89.0 (KHTML, like Gecko) GreenBrowser/89.0 Safari/89.0
+Mozilla/5.0 (Symbian/S60; ARM; en-GB) AppleWebKit/61.0 (KHTML, like Gecko) Konqueror/61.0 Safari/61.0
+Mozilla/5.0 (BlackBerry/7.1; x86; fr-FR) AppleWebKit/50.0 (KHTML, like Gecko) Cent Browser/50.0 Safari/50.0
+Mozilla/5.0 (Windows CE/6.0; ARM; fr-FR) AppleWebKit/81.0 (KHTML, like Gecko) Waterfox/81.0 Safari/81.0
+Mozilla/5.0 (Macintosh/PPC Mac OS X 10_5_8; x86_64; de-DE) AppleWebKit/88.0 (KHTML, like Gecko) GreenBrowser/88.0 Safari/88.0
+Mozilla/5.0 (Windows CE/7.0; ARM; de-DE) AppleWebKit/51.0 (KHTML, like Gecko) Samsung Internet/51.0 Safari/51.0
+Mozilla/5.0 (Bada/2.0; ARM; en-GB) AppleWebKit/63.0 (KHTML, like Gecko) Qutebrowser/63.0 Safari/63.0
+Mozilla/5.0 (Windows CE/7.0; ARM; fr-FR) AppleWebKit/71.0 (KHTML, like Gecko) Samsung Internet/71.0 Safari/71.0
+Mozilla/5.0 (Chrome OS/13421.67.0; x86; fr-FR) AppleWebKit/77.0 (KHTML, like Gecko) Pale Moon/77.0 Safari/77.0
+Mozilla/5.0 (Windows NT/3.5; Win64; fr-FR) AppleWebKit/64.0 (KHTML, like Gecko) Waterfox/64.0 Safari/64.0
+Mozilla/5.0 (Linux/ARM; en-US) AppleWebKit/61.0 (KHTML, like Gecko) Waterfox/61.0 Safari/61.0
+Mozilla/5.0 (Linux/ARM64; en-US) AppleWebKit/85.0 (KHTML, like Gecko) Otter Browser/85.0 Safari/85.0
+Mozilla/5.0 (Android/Android 8; ARM64; fr-FR) AppleWebKit/77.0 (KHTML, like Gecko) Lunascape/77.0 Safari/77.0
+Mozilla/5.0 (BlackBerry/10.3; x86; en-US) AppleWebKit/50.0 (KHTML, like Gecko) Samsung Internet/50.0 Safari/50.0
+Mozilla/5.0 (Bada/1.0; ARM; fr-FR) AppleWebKit/63.0 (KHTML, like Gecko) Maxthon/63.0 Safari/63.0
+Mozilla/5.0 (Bada/2.0; ARM; en-GB) AppleWebKit/91.0 (KHTML, like Gecko) Chrome/91.0 Safari/91.0
+Mozilla/5.0 (X11/Chromium OS; x86_64; en-US) AppleWebKit/60.0 (KHTML, like Gecko) UC Browser/60.0 Safari/60.0
+Mozilla/5.0 (Bada/1.2; ARM; fr-FR) AppleWebKit/76.0 (KHTML, like Gecko) Vivaldi/76.0 Safari/76.0
+Mozilla/5.0 (Windows Phone/7.5; ARM; de-DE) AppleWebKit/88.0 (KHTML, like Gecko) Chrome/88.0 Safari/88.0
+Mozilla/5.0 (webOS/1.4; ARM; fr-FR) AppleWebKit/94.0 (KHTML, like Gecko) Maxthon/94.0 Safari/94.0
+Mozilla/5.0 (X11/Mandriva; x86; en-GB) AppleWebKit/81.0 (KHTML, like Gecko) Waterfox/81.0 Safari/81.0
+Mozilla/5.0 (Windows CE/6.0; ARM; en-GB) AppleWebKit/88.0 (KHTML, like Gecko) Edge/88.0 Safari/88.0
+Mozilla/5.0 (Macintosh/Intel; x86_64; de-DE) AppleWebKit/59.0 (KHTML, like Gecko) GreenBrowser/59.0 Safari/59.0
+Mozilla/5.0 (Windows Phone/8.0; ARM; de-DE) AppleWebKit/70.0 (KHTML, like Gecko) Internet Explorer/70.0 Safari/70.0
+Mozilla/5.0 (BlackBerry/10.0; ARM; en-US) AppleWebKit/58.0 (KHTML, like Gecko) Qutebrowser/58.0 Safari/58.0
+Mozilla/5.0 (Macintosh/Intel; x86; de-DE) AppleWebKit/82.0 (KHTML, like Gecko) SeaMonkey/82.0 Safari/82.0
+Mozilla/5.0 (BlackBerry/10.0; ARM; en-US) AppleWebKit/50.0 (KHTML, like Gecko) Konqueror/50.0 Safari/50.0
+Mozilla/5.0 (BlackBerry/10.2; x86; de-DE) AppleWebKit/83.0 (KHTML, like Gecko) UC Browser/83.0 Safari/83.0
+Mozilla/5.0 (X11/Mandriva; x86_64; fr-FR) AppleWebKit/61.0 (KHTML, like Gecko) IceCat/61.0 Safari/61.0
+Mozilla/5.0 (webOS/1.4; ARM; de-DE) AppleWebKit/81.0 (KHTML, like Gecko) Slimjet/81.0 Safari/81.0
+Mozilla/5.0 (X11/Zorin OS; x86_64; en-US) AppleWebKit/50.0 (KHTML, like Gecko) Chrome/50.0 Safari/50.0
+Mozilla/5.0 (Chrome OS/13421.65.0; x86_64; en-US) AppleWebKit/73.0 (KHTML, like Gecko) Epic Privacy Browser/73.0 Safari/73.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_12_6; x86; en-GB) AppleWebKit/91.0 (KHTML, like Gecko) SeaMonkey/91.0 Safari/91.0
+Mozilla/5.0 (Bada/1.2; ARM; en-US) AppleWebKit/70.0 (KHTML, like Gecko) Edge/70.0 Safari/70.0
+Mozilla/5.0 (Tizen/4.0; ARM; de-DE) AppleWebKit/51.0 (KHTML, like Gecko) Internet Explorer/51.0 Safari/51.0
+Mozilla/5.0 (Bada/1.2; ARM; fr-FR) AppleWebKit/76.0 (KHTML, like Gecko) Mozilla/76.0 Safari/76.0
+Mozilla/5.0 (Symbian/Belle; x86; en-GB) AppleWebKit/87.0 (KHTML, like Gecko) UC Browser/87.0 Safari/87.0
+Mozilla/5.0 (Tizen/2.4; ARM; fr-FR) AppleWebKit/51.0 (KHTML, like Gecko) Mozilla/51.0 Safari/51.0
+Mozilla/5.0 (Chrome OS/13421.65.0; x86; en-GB) AppleWebKit/51.0 (KHTML, like Gecko) Qutebrowser/51.0 Safari/51.0
+Mozilla/5.0 (X11/Gentoo; x86; en-GB) AppleWebKit/83.0 (KHTML, like Gecko) Maxthon/83.0 Safari/83.0
+Mozilla/5.0 (Linux/x86_64; de-DE) AppleWebKit/65.0 (KHTML, like Gecko) Vivaldi/65.0 Safari/65.0
+Mozilla/5.0 (Chrome OS/13421.60.0; x86; en-US) AppleWebKit/80.0 (KHTML, like Gecko) Midori/80.0 Safari/80.0
+Mozilla/5.0 (Android/Android 7; ARM; de-DE) AppleWebKit/73.0 (KHTML, like Gecko) Chrome/73.0 Safari/73.0
+Mozilla/5.0 (Chrome OS/13421.67.0; x86_64; en-GB) AppleWebKit/96.0 (KHTML, like Gecko) Lunascape/96.0 Safari/96.0
+Mozilla/5.0 (Bada/2.0; ARM; de-DE) AppleWebKit/69.0 (KHTML, like Gecko) Internet Explorer/69.0 Safari/69.0
+Mozilla/5.0 (Symbian/S60; ARM; en-US) AppleWebKit/95.0 (KHTML, like Gecko) Midori/95.0 Safari/95.0
+Mozilla/5.0 (Windows NT/6.1; Win32; en-GB) AppleWebKit/95.0 (KHTML, like Gecko) Cent Browser/95.0 Safari/95.0
+Mozilla/5.0 (Tizen/2.4; ARM; en-GB) AppleWebKit/95.0 (KHTML, like Gecko) Maxthon/95.0 Safari/95.0
+Mozilla/5.0 (Symbian/Anna; ARM; de-DE) AppleWebKit/79.0 (KHTML, like Gecko) Vivaldi/79.0 Safari/79.0
+Mozilla/5.0 (BlackBerry/10.3; x86; en-US) AppleWebKit/63.0 (KHTML, like Gecko) Konqueror/63.0 Safari/63.0
+Mozilla/5.0 (Android/Android 7; ARM; en-US) AppleWebKit/55.0 (KHTML, like Gecko) SeaMonkey/55.0 Safari/55.0
+Mozilla/5.0 (Windows CE/5.0; ARM; en-US) AppleWebKit/78.0 (KHTML, like Gecko) Slimjet/78.0 Safari/78.0
+Mozilla/5.0 (Bada/1.2; ARM; de-DE) AppleWebKit/81.0 (KHTML, like Gecko) Yandex Browser/81.0 Safari/81.0
+Mozilla/5.0 (X11/Chromium OS; x86_64; de-DE) AppleWebKit/60.0 (KHTML, like Gecko) Netscape/60.0 Safari/60.0
+Mozilla/5.0 (Android/Android 5; ARM; de-DE) AppleWebKit/95.0 (KHTML, like Gecko) Qutebrowser/95.0 Safari/95.0
+Mozilla/5.0 (Windows NT/4.0; Win32; en-US) AppleWebKit/79.0 (KHTML, like Gecko) IceCat/79.0 Safari/79.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_15_7; x86_64; en-GB) AppleWebKit/51.0 (KHTML, like Gecko) SeaMonkey/51.0 Safari/51.0
+Mozilla/5.0 (Windows NT/6.2; Win64; en-US) AppleWebKit/67.0 (KHTML, like Gecko) Torch Browser/67.0 Safari/67.0
+Mozilla/5.0 (BlackBerry/7.1; x86; en-GB) AppleWebKit/95.0 (KHTML, like Gecko) Maxthon/95.0 Safari/95.0
+Mozilla/5.0 (Tizen/2.3; ARM; en-US) AppleWebKit/69.0 (KHTML, like Gecko) Cent Browser/69.0 Safari/69.0
+Mozilla/5.0 (Macintosh/Intel; x86; de-DE) AppleWebKit/97.0 (KHTML, like Gecko) Edge/97.0 Safari/97.0
+Mozilla/5.0 (Chrome OS/13421.61.0; x86; fr-FR) AppleWebKit/92.0 (KHTML, like Gecko) GreenBrowser/92.0 Safari/92.0
+Mozilla/5.0 (Windows NT/2.11; Win32; en-GB) AppleWebKit/69.0 (KHTML, like Gecko) Vivaldi/69.0 Safari/69.0
+Mozilla/5.0 (Windows Phone/8.0; ARM; de-DE) AppleWebKit/78.0 (KHTML, like Gecko) SeaMonkey/78.0 Safari/78.0
+Mozilla/5.0 (X11/Arch Linux; x86_64; en-US) AppleWebKit/73.0 (KHTML, like Gecko) Cent Browser/73.0 Safari/73.0
+Mozilla/5.0 (Windows CE/6.0; ARM; en-US) AppleWebKit/96.0 (KHTML, like Gecko) Midori/96.0 Safari/96.0
+Mozilla/5.0 (BlackBerry/10.1; x86; fr-FR) AppleWebKit/59.0 (KHTML, like Gecko) Brave/59.0 Safari/59.0
+Mozilla/5.0 (webOS/1.0; ARM; fr-FR) AppleWebKit/84.0 (KHTML, like Gecko) Cent Browser/84.0 Safari/84.0
+Mozilla/5.0 (Windows NT/2.1; Win32; en-US) AppleWebKit/88.0 (KHTML, like Gecko) UC Browser/88.0 Safari/88.0
+Mozilla/5.0 (Windows CE/5.0; ARM; en-US) AppleWebKit/55.0 (KHTML, like Gecko) Brave/55.0 Safari/55.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_15_7; x86_64; fr-FR) AppleWebKit/66.0 (KHTML, like Gecko) Mozilla/66.0 Safari/66.0
+Mozilla/5.0 (BlackBerry/10.1; x86; en-GB) AppleWebKit/57.0 (KHTML, like Gecko) Opera/57.0 Safari/57.0
+Mozilla/5.0 (Windows NT/6.2; Win32; fr-FR) AppleWebKit/83.0 (KHTML, like Gecko) 360 Secure Browser/83.0 Safari/83.0
+Mozilla/5.0 (webOS/1.4; ARM; en-GB) AppleWebKit/65.0 (KHTML, like Gecko) Midori/65.0 Safari/65.0
+Mozilla/5.0 (X11/BackBox; x86_64; de-DE) AppleWebKit/80.0 (KHTML, like Gecko) Chrome/80.0 Safari/80.0
+Mozilla/5.0 (webOS/1.4; ARM; en-US) AppleWebKit/97.0 (KHTML, like Gecko) Avast Secure Browser/97.0 Safari/97.0
+Mozilla/5.0 (Chrome OS/13421.61.0; x86; en-GB) AppleWebKit/64.0 (KHTML, like Gecko) Internet Explorer/64.0 Safari/64.0
+Mozilla/5.0 (Chrome OS/13421.67.0; x86; en-GB) AppleWebKit/64.0 (KHTML, like Gecko) Edge/64.0 Safari/64.0
+Mozilla/5.0 (Android/Android 11; ARM; en-GB) AppleWebKit/61.0 (KHTML, like Gecko) Opera/61.0 Safari/61.0
+Mozilla/5.0 (Tizen/2.3; ARM; fr-FR) AppleWebKit/55.0 (KHTML, like Gecko) Opera/55.0 Safari/55.0
+Mozilla/5.0 (Linux/ARM; en-US) AppleWebKit/70.0 (KHTML, like Gecko) Pale Moon/70.0 Safari/70.0
+Mozilla/5.0 (webOS/1.4; ARM; en-GB) AppleWebKit/91.0 (KHTML, like Gecko) 360 Secure Browser/91.0 Safari/91.0
+Mozilla/5.0 (Linux/ARM64; en-GB) AppleWebKit/73.0 (KHTML, like Gecko) Pale Moon/73.0 Safari/73.0
+Mozilla/5.0 (Android/Android 2; ARM; en-US) AppleWebKit/76.0 (KHTML, like Gecko) UC Browser/76.0 Safari/76.0
+Mozilla/5.0 (Tizen/3.0; ARM; fr-FR) AppleWebKit/71.0 (KHTML, like Gecko) Slimjet/71.0 Safari/71.0
+Mozilla/5.0 (Windows Phone/8.0; ARM; en-GB) AppleWebKit/90.0 (KHTML, like Gecko) Samsung Internet/90.0 Safari/90.0
+Mozilla/5.0 (X11/Debian; x86_64; de-DE) AppleWebKit/84.0 (KHTML, like Gecko) Edge/84.0 Safari/84.0
+Mozilla/5.0 (Bada/1.0; ARM; en-US) AppleWebKit/74.0 (KHTML, like Gecko) Slimjet/74.0 Safari/74.0
+Mozilla/5.0 (Tizen/3.0; ARM; en-GB) AppleWebKit/85.0 (KHTML, like Gecko) Midori/85.0 Safari/85.0
+Mozilla/5.0 (webOS/1.4; ARM; en-GB) AppleWebKit/83.0 (KHTML, like Gecko) Maxthon/83.0 Safari/83.0
+Mozilla/5.0 (X11/Raspbian; x86_64; en-GB) AppleWebKit/50.0 (KHTML, like Gecko) Epic Privacy Browser/50.0 Safari/50.0
+Mozilla/5.0 (Windows CE/6.0; ARM; en-GB) AppleWebKit/82.0 (KHTML, like Gecko) Cent Browser/82.0 Safari/82.0
+Mozilla/5.0 (Windows CE/6.0; x86; de-DE) AppleWebKit/98.0 (KHTML, like Gecko) GreenBrowser/98.0 Safari/98.0
+Mozilla/5.0 (Tizen/4.0; ARM; en-GB) AppleWebKit/75.0 (KHTML, like Gecko) Edge/75.0 Safari/75.0
+Mozilla/5.0 (Macintosh/Intel; x86_64; en-US) AppleWebKit/55.0 (KHTML, like Gecko) Chrome/55.0 Safari/55.0
+Mozilla/5.0 (Android/Android 11; x86; fr-FR) AppleWebKit/70.0 (KHTML, like Gecko) Midori/70.0 Safari/70.0
+Mozilla/5.0 (webOS/3.0; ARM; en-US) AppleWebKit/70.0 (KHTML, like Gecko) Opera/70.0 Safari/70.0
+Mozilla/5.0 (Symbian/Anna; ARM; en-US) AppleWebKit/50.0 (KHTML, like Gecko) Opera/50.0 Safari/50.0
+Mozilla/5.0 (Bada/1.2; ARM; fr-FR) AppleWebKit/65.0 (KHTML, like Gecko) Epic Privacy Browser/65.0 Safari/65.0
+Mozilla/5.0 (X11/Chromium OS; x86; en-GB) AppleWebKit/85.0 (KHTML, like Gecko) GreenBrowser/85.0 Safari/85.0
+Mozilla/5.0 (Tizen/2.3; ARM; de-DE) AppleWebKit/69.0 (KHTML, like Gecko) Yandex Browser/69.0 Safari/69.0
+Mozilla/5.0 (X11/Chromium OS; x86_64; en-US) AppleWebKit/92.0 (KHTML, like Gecko) Opera/92.0 Safari/92.0
+Mozilla/5.0 (Linux/x86; en-US) AppleWebKit/73.0 (KHTML, like Gecko) Firefox/73.0 Safari/73.0
+Mozilla/5.0 (Windows CE/6.0; x86; en-US) AppleWebKit/62.0 (KHTML, like Gecko) Otter Browser/62.0 Safari/62.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_13_6; x86_64; fr-FR) AppleWebKit/98.0 (KHTML, like Gecko) Slimjet/98.0 Safari/98.0
+Mozilla/5.0 (Android/Android 9; ARM64; en-US) AppleWebKit/61.0 (KHTML, like Gecko) Waterfox/61.0 Safari/61.0
+Mozilla/5.0 (Bada/1.0; ARM; de-DE) AppleWebKit/96.0 (KHTML, like Gecko) Waterfox/96.0 Safari/96.0
+Mozilla/5.0 (Windows NT/1.0; Win32; de-DE) AppleWebKit/71.0 (KHTML, like Gecko) 360 Secure Browser/71.0 Safari/71.0
+Mozilla/5.0 (X11/Arch Linux; x86; de-DE) AppleWebKit/64.0 (KHTML, like Gecko) Maxthon/64.0 Safari/64.0
+Mozilla/5.0 (Chrome OS/13421.64.0; x86_64; fr-FR) AppleWebKit/82.0 (KHTML, like Gecko) Epic Privacy Browser/82.0 Safari/82.0
+Mozilla/5.0 (Linux/ARM; fr-FR) AppleWebKit/91.0 (KHTML, like Gecko) IceCat/91.0 Safari/91.0
+Mozilla/5.0 (Macintosh/Intel; x86_64; de-DE) AppleWebKit/52.0 (KHTML, like Gecko) Pale Moon/52.0 Safari/52.0
+Mozilla/5.0 (X11/Slackware; x86_64; fr-FR) AppleWebKit/68.0 (KHTML, like Gecko) Torch Browser/68.0 Safari/68.0
+Mozilla/5.0 (X11/Fedora; x86_64; en-GB) AppleWebKit/80.0 (KHTML, like Gecko) Internet Explorer/80.0 Safari/80.0
+Mozilla/5.0 (Linux/ARM64; en-GB) AppleWebKit/62.0 (KHTML, like Gecko) Mozilla/62.0 Safari/62.0
+Mozilla/5.0 (Windows NT/5.0; Win64; en-GB) AppleWebKit/91.0 (KHTML, like Gecko) Chrome/91.0 Safari/91.0
+Mozilla/5.0 (BlackBerry/10.0; x86; de-DE) AppleWebKit/85.0 (KHTML, like Gecko) Otter Browser/85.0 Safari/85.0
+Mozilla/5.0 (Tizen/2.4; ARM; en-GB) AppleWebKit/95.0 (KHTML, like Gecko) Samsung Internet/95.0 Safari/95.0
+Mozilla/5.0 (Tizen/2.4; ARM; en-US) AppleWebKit/52.0 (KHTML, like Gecko) Slimjet/52.0 Safari/52.0
+Mozilla/5.0 (Macintosh/PPC Mac OS X 10_4_11; x86_64; en-US) AppleWebKit/70.0 (KHTML, like Gecko) Avast Secure Browser/70.0 Safari/70.0
+Mozilla/5.0 (Macintosh/PPC Mac OS X 10_4_11; x86; fr-FR) AppleWebKit/69.0 (KHTML, like Gecko) Edge/69.0 Safari/69.0
+Mozilla/5.0 (Symbian/Belle; x86; de-DE) AppleWebKit/82.0 (KHTML, like Gecko) Edge/82.0 Safari/82.0
+Mozilla/5.0 (Android/Android 2; ARM64; fr-FR) AppleWebKit/66.0 (KHTML, like Gecko) Lunascape/66.0 Safari/66.0
+Mozilla/5.0 (Bada/1.2; ARM; en-GB) AppleWebKit/60.0 (KHTML, like Gecko) IceCat/60.0 Safari/60.0
+Mozilla/5.0 (BlackBerry/10.2; ARM; de-DE) AppleWebKit/76.0 (KHTML, like Gecko) Qutebrowser/76.0 Safari/76.0
+Mozilla/5.0 (Tizen/2.3; ARM; en-GB) AppleWebKit/66.0 (KHTML, like Gecko) Lunascape/66.0 Safari/66.0
+Mozilla/5.0 (webOS/2.2; ARM; de-DE) AppleWebKit/97.0 (KHTML, like Gecko) Samsung Internet/97.0 Safari/97.0
+Mozilla/5.0 (Windows Phone/8.1; ARM; de-DE) AppleWebKit/94.0 (KHTML, like Gecko) Torch Browser/94.0 Safari/94.0
+Mozilla/5.0 (Linux/ARM; en-GB) AppleWebKit/96.0 (KHTML, like Gecko) Edge/96.0 Safari/96.0
+Mozilla/5.0 (X11/Arch Linux; x86_64; en-US) AppleWebKit/57.0 (KHTML, like Gecko) Slimjet/57.0 Safari/57.0
+Mozilla/5.0 (Chrome OS/13421.64.0; x86; de-DE) AppleWebKit/84.0 (KHTML, like Gecko) Epic Privacy Browser/84.0 Safari/84.0
+Mozilla/5.0 (Bada/1.2; ARM; en-US) AppleWebKit/55.0 (KHTML, like Gecko) Cent Browser/55.0 Safari/55.0
+Mozilla/5.0 (Windows CE/5.0; x86; en-GB) AppleWebKit/65.0 (KHTML, like Gecko) Internet Explorer/65.0 Safari/65.0
+Mozilla/5.0 (Windows CE/5.0; x86; de-DE) AppleWebKit/88.0 (KHTML, like Gecko) Pale Moon/88.0 Safari/88.0
+Mozilla/5.0 (Windows Phone/7.5; ARM; fr-FR) AppleWebKit/84.0 (KHTML, like Gecko) Waterfox/84.0 Safari/84.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_15_7; x86; en-GB) AppleWebKit/63.0 (KHTML, like Gecko) Safari/63.0 Safari/63.0
+Mozilla/5.0 (X11/openSUSE; x86; en-GB) AppleWebKit/87.0 (KHTML, like Gecko) Internet Explorer/87.0 Safari/87.0
+Mozilla/5.0 (BlackBerry/10.0; x86; de-DE) AppleWebKit/67.0 (KHTML, like Gecko) Pale Moon/67.0 Safari/67.0
+Mozilla/5.0 (Windows CE/6.0; ARM; de-DE) AppleWebKit/96.0 (KHTML, like Gecko) Netscape/96.0 Safari/96.0
+Mozilla/5.0 (Bada/2.0; ARM; de-DE) AppleWebKit/93.0 (KHTML, like Gecko) 360 Secure Browser/93.0 Safari/93.0
+Mozilla/5.0 (Windows NT/6.1; Win64; en-US) AppleWebKit/98.0 (KHTML, like Gecko) Safari/98.0 Safari/98.0
+Mozilla/5.0 (Linux/x86; en-GB) AppleWebKit/66.0 (KHTML, like Gecko) UC Browser/66.0 Safari/66.0
+Mozilla/5.0 (Bada/1.2; ARM; en-GB) AppleWebKit/75.0 (KHTML, like Gecko) Edge/75.0 Safari/75.0
+Mozilla/5.0 (Windows CE/5.0; x86; en-GB) AppleWebKit/78.0 (KHTML, like Gecko) Midori/78.0 Safari/78.0
+Mozilla/5.0 (Linux/ARM64; fr-FR) AppleWebKit/96.0 (KHTML, like Gecko) Safari/96.0 Safari/96.0
+Mozilla/5.0 (BlackBerry/10.3; x86; de-DE) AppleWebKit/64.0 (KHTML, like Gecko) Mozilla/64.0 Safari/64.0
+Mozilla/5.0 (Symbian/Anna; x86; en-US) AppleWebKit/53.0 (KHTML, like Gecko) Midori/53.0 Safari/53.0
+Mozilla/5.0 (Symbian/S60; x86; fr-FR) AppleWebKit/93.0 (KHTML, like Gecko) Lunascape/93.0 Safari/93.0
+Mozilla/5.0 (BlackBerry/10.2; x86; en-GB) AppleWebKit/97.0 (KHTML, like Gecko) Mozilla/97.0 Safari/97.0
+Mozilla/5.0 (X11/Puppy Linux; x86; de-DE) AppleWebKit/58.0 (KHTML, like Gecko) Epic Privacy Browser/58.0 Safari/58.0
+Mozilla/5.0 (Linux/x86_64; de-DE) AppleWebKit/63.0 (KHTML, like Gecko) Midori/63.0 Safari/63.0
+Mozilla/5.0 (Windows CE/6.0; x86; en-GB) AppleWebKit/86.0 (KHTML, like Gecko) Konqueror/86.0 Safari/86.0
+Mozilla/5.0 (Windows CE/6.0; x86; fr-FR) AppleWebKit/61.0 (KHTML, like Gecko) Torch Browser/61.0 Safari/61.0
+Mozilla/5.0 (Chrome OS/13421.67.0; x86; en-US) AppleWebKit/69.0 (KHTML, like Gecko) Pale Moon/69.0 Safari/69.0
+Mozilla/5.0 (Windows CE/7.0; x86; en-GB) AppleWebKit/87.0 (KHTML, like Gecko) Safari/87.0 Safari/87.0
+Mozilla/5.0 (BlackBerry/6.0; x86; fr-FR) AppleWebKit/74.0 (KHTML, like Gecko) SeaMonkey/74.0 Safari/74.0
+Mozilla/5.0 (Windows Phone/7.0; ARM; de-DE) AppleWebKit/77.0 (KHTML, like Gecko) Mozilla/77.0 Safari/77.0
+Mozilla/5.0 (Windows CE/7.0; ARM; de-DE) AppleWebKit/58.0 (KHTML, like Gecko) Vivaldi/58.0 Safari/58.0
+Mozilla/5.0 (Windows Phone/8.0; ARM; en-GB) AppleWebKit/99.0 (KHTML, like Gecko) Mozilla/99.0 Safari/99.0
+Mozilla/5.0 (Windows NT/2.1; Win32; fr-FR) AppleWebKit/53.0 (KHTML, like Gecko) Avast Secure Browser/53.0 Safari/53.0
+Mozilla/5.0 (Tizen/4.0; ARM; en-US) AppleWebKit/86.0 (KHTML, like Gecko) Internet Explorer/86.0 Safari/86.0
+Mozilla/5.0 (Windows CE/5.0; ARM; en-US) AppleWebKit/70.0 (KHTML, like Gecko) SeaMonkey/70.0 Safari/70.0
+Mozilla/5.0 (Chrome OS/13421.66.0; x86; en-US) AppleWebKit/79.0 (KHTML, like Gecko) Brave/79.0 Safari/79.0
+Mozilla/5.0 (Tizen/3.0; ARM; en-US) AppleWebKit/76.0 (KHTML, like Gecko) SeaMonkey/76.0 Safari/76.0
+Mozilla/5.0 (Android/Android 9; ARM64; en-GB) AppleWebKit/59.0 (KHTML, like Gecko) Opera/59.0 Safari/59.0
+Mozilla/5.0 (Windows CE/5.0; ARM; fr-FR) AppleWebKit/56.0 (KHTML, like Gecko) Samsung Internet/56.0 Safari/56.0
+Mozilla/5.0 (Symbian/Belle; x86; en-US) AppleWebKit/74.0 (KHTML, like Gecko) Avast Secure Browser/74.0 Safari/74.0
+Mozilla/5.0 (Android/Android 4; x86; de-DE) AppleWebKit/81.0 (KHTML, like Gecko) Qutebrowser/81.0 Safari/81.0
+Mozilla/5.0 (Bada/1.2; ARM; en-GB) AppleWebKit/60.0 (KHTML, like Gecko) Konqueror/60.0 Safari/60.0
+Mozilla/5.0 (webOS/1.4; ARM; de-DE) AppleWebKit/87.0 (KHTML, like Gecko) IceCat/87.0 Safari/87.0
+Mozilla/5.0 (Macintosh/PPC Mac OS X 10_5_8; x86_64; fr-FR) AppleWebKit/70.0 (KHTML, like Gecko) Avast Secure Browser/70.0 Safari/70.0
+Mozilla/5.0 (Windows CE/7.0; ARM; en-GB) AppleWebKit/78.0 (KHTML, like Gecko) Pale Moon/78.0 Safari/78.0
+Mozilla/5.0 (Windows Phone/10.0; ARM; fr-FR) AppleWebKit/66.0 (KHTML, like Gecko) Brave/66.0 Safari/66.0
+Mozilla/5.0 (Macintosh/68K; x86; fr-FR) AppleWebKit/57.0 (KHTML, like Gecko) Cent Browser/57.0 Safari/57.0
+Mozilla/5.0 (Chrome OS/13421.64.0; x86; en-US) AppleWebKit/88.0 (KHTML, like Gecko) IceCat/88.0 Safari/88.0
+Mozilla/5.0 (Bada/2.0; ARM; en-GB) AppleWebKit/71.0 (KHTML, like Gecko) Samsung Internet/71.0 Safari/71.0
+Mozilla/5.0 (Chrome OS/13421.67.0; x86; de-DE) AppleWebKit/74.0 (KHTML, like Gecko) Internet Explorer/74.0 Safari/74.0
+Mozilla/5.0 (Windows NT/3.1; Win64; de-DE) AppleWebKit/66.0 (KHTML, like Gecko) Brave/66.0 Safari/66.0
+Mozilla/5.0 (Windows Phone/8.0; ARM; en-US) AppleWebKit/51.0 (KHTML, like Gecko) UC Browser/51.0 Safari/51.0
+Mozilla/5.0 (Chrome OS/13421.60.0; x86_64; de-DE) AppleWebKit/84.0 (KHTML, like Gecko) UC Browser/84.0 Safari/84.0
+Mozilla/5.0 (Bada/1.0; ARM; de-DE) AppleWebKit/95.0 (KHTML, like Gecko) Chrome/95.0 Safari/95.0
+Mozilla/5.0 (Windows NT/10.0; Win32; en-US) AppleWebKit/54.0 (KHTML, like Gecko) Opera/54.0 Safari/54.0
+Mozilla/5.0 (X11/BackBox; x86; en-US) AppleWebKit/88.0 (KHTML, like Gecko) Chrome/88.0 Safari/88.0
+Mozilla/5.0 (Symbian/Anna; x86; fr-FR) AppleWebKit/69.0 (KHTML, like Gecko) Otter Browser/69.0 Safari/69.0
+Mozilla/5.0 (Android/Android 2; x86_64; en-GB) AppleWebKit/85.0 (KHTML, like Gecko) Epic Privacy Browser/85.0 Safari/85.0
+Mozilla/5.0 (Tizen/2.3; ARM; en-US) AppleWebKit/65.0 (KHTML, like Gecko) Cent Browser/65.0 Safari/65.0
+Mozilla/5.0 (Symbian/S60; x86; fr-FR) AppleWebKit/90.0 (KHTML, like Gecko) Firefox/90.0 Safari/90.0
+Mozilla/5.0 (Symbian/S60; ARM; fr-FR) AppleWebKit/83.0 (KHTML, like Gecko) Epic Privacy Browser/83.0 Safari/83.0
+Mozilla/5.0 (Windows NT/5.0; Win32; fr-FR) AppleWebKit/71.0 (KHTML, like Gecko) Yandex Browser/71.0 Safari/71.0
+Mozilla/5.0 (Windows NT/3.11; Win32; de-DE) AppleWebKit/61.0 (KHTML, like Gecko) Pale Moon/61.0 Safari/61.0
+Mozilla/5.0 (Symbian/Anna; ARM; de-DE) AppleWebKit/53.0 (KHTML, like Gecko) IceCat/53.0 Safari/53.0
+Mozilla/5.0 (Chrome OS/13421.67.0; x86_64; fr-FR) AppleWebKit/84.0 (KHTML, like Gecko) Waterfox/84.0 Safari/84.0
+Mozilla/5.0 (Windows Phone/10.0; ARM; de-DE) AppleWebKit/93.0 (KHTML, like Gecko) Internet Explorer/93.0 Safari/93.0
+Mozilla/5.0 (Symbian/Anna; x86; fr-FR) AppleWebKit/89.0 (KHTML, like Gecko) Epic Privacy Browser/89.0 Safari/89.0
+Mozilla/5.0 (Android/Android 7; x86_64; en-GB) AppleWebKit/91.0 (KHTML, like Gecko) Samsung Internet/91.0 Safari/91.0
+Mozilla/5.0 (Windows NT/4.0; Win32; de-DE) AppleWebKit/53.0 (KHTML, like Gecko) Samsung Internet/53.0 Safari/53.0
+Mozilla/5.0 (BlackBerry/6.0; ARM; de-DE) AppleWebKit/53.0 (KHTML, like Gecko) Epic Privacy Browser/53.0 Safari/53.0
+Mozilla/5.0 (Windows NT/6.1; Win64; de-DE) AppleWebKit/62.0 (KHTML, like Gecko) Torch Browser/62.0 Safari/62.0
+Mozilla/5.0 (Macintosh/PPC Mac OS X 10_5_8; x86_64; de-DE) AppleWebKit/94.0 (KHTML, like Gecko) Avast Secure Browser/94.0 Safari/94.0
+Mozilla/5.0 (webOS/1.0; ARM; en-GB) AppleWebKit/91.0 (KHTML, like Gecko) Safari/91.0 Safari/91.0
+Mozilla/5.0 (Chrome OS/13421.63.0; x86_64; en-GB) AppleWebKit/75.0 (KHTML, like Gecko) Opera/75.0 Safari/75.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_11_6; x86; fr-FR) AppleWebKit/82.0 (KHTML, like Gecko) Epic Privacy Browser/82.0 Safari/82.0
+Mozilla/5.0 (webOS/2.2; ARM; en-US) AppleWebKit/57.0 (KHTML, like Gecko) Opera/57.0 Safari/57.0
+Mozilla/5.0 (Android/Android 7; x86_64; fr-FR) AppleWebKit/93.0 (KHTML, like Gecko) GreenBrowser/93.0 Safari/93.0
+Mozilla/5.0 (Tizen/4.0; ARM; de-DE) AppleWebKit/56.0 (KHTML, like Gecko) Brave/56.0 Safari/56.0
+Mozilla/5.0 (Linux/ARM64; en-US) AppleWebKit/83.0 (KHTML, like Gecko) 360 Secure Browser/83.0 Safari/83.0
+Mozilla/5.0 (Linux/x86; en-US) AppleWebKit/68.0 (KHTML, like Gecko) Cent Browser/68.0 Safari/68.0
+Mozilla/5.0 (X11/Fedora; x86_64; en-US) AppleWebKit/77.0 (KHTML, like Gecko) Cent Browser/77.0 Safari/77.0
+Mozilla/5.0 (Symbian/Belle; ARM; de-DE) AppleWebKit/93.0 (KHTML, like Gecko) UC Browser/93.0 Safari/93.0
+Mozilla/5.0 (Bada/2.0; ARM; fr-FR) AppleWebKit/81.0 (KHTML, like Gecko) Internet Explorer/81.0 Safari/81.0
+Mozilla/5.0 (BlackBerry/10.1; ARM; de-DE) AppleWebKit/80.0 (KHTML, like Gecko) Epic Privacy Browser/80.0 Safari/80.0
+Mozilla/5.0 (Windows CE/6.0; x86; en-US) AppleWebKit/51.0 (KHTML, like Gecko) Waterfox/51.0 Safari/51.0
+Mozilla/5.0 (Android/Android 7; ARM64; en-US) AppleWebKit/62.0 (KHTML, like Gecko) Midori/62.0 Safari/62.0
+Mozilla/5.0 (webOS/1.4; ARM; en-GB) AppleWebKit/65.0 (KHTML, like Gecko) Otter Browser/65.0 Safari/65.0
+Mozilla/5.0 (webOS/2.2; ARM; de-DE) AppleWebKit/63.0 (KHTML, like Gecko) UC Browser/63.0 Safari/63.0
+Mozilla/5.0 (BlackBerry/10.2; ARM; fr-FR) AppleWebKit/51.0 (KHTML, like Gecko) 360 Secure Browser/51.0 Safari/51.0
+Mozilla/5.0 (Symbian/Anna; x86; en-US) AppleWebKit/79.0 (KHTML, like Gecko) GreenBrowser/79.0 Safari/79.0
+Mozilla/5.0 (Android/Android 4; ARM; de-DE) AppleWebKit/86.0 (KHTML, like Gecko) Slimjet/86.0 Safari/86.0
+Mozilla/5.0 (Bada/1.2; ARM; en-US) AppleWebKit/50.0 (KHTML, like Gecko) GreenBrowser/50.0 Safari/50.0
+Mozilla/5.0 (webOS/3.0; ARM; en-GB) AppleWebKit/99.0 (KHTML, like Gecko) Slimjet/99.0 Safari/99.0
+Mozilla/5.0 (Windows Phone/8.1; ARM; de-DE) AppleWebKit/52.0 (KHTML, like Gecko) Netscape/52.0 Safari/52.0
+Mozilla/5.0 (Macintosh/Intel; x86; fr-FR) AppleWebKit/96.0 (KHTML, like Gecko) SeaMonkey/96.0 Safari/96.0
+Mozilla/5.0 (Windows Phone/7.0; ARM; en-GB) AppleWebKit/65.0 (KHTML, like Gecko) Chrome/65.0 Safari/65.0
+Mozilla/5.0 (webOS/3.0; ARM; fr-FR) AppleWebKit/70.0 (KHTML, like Gecko) Epic Privacy Browser/70.0 Safari/70.0
+Mozilla/5.0 (Android/Android 5; x86_64; en-US) AppleWebKit/89.0 (KHTML, like Gecko) Firefox/89.0 Safari/89.0
+Mozilla/5.0 (Symbian/Belle; x86; en-US) AppleWebKit/60.0 (KHTML, like Gecko) Epic Privacy Browser/60.0 Safari/60.0
+Mozilla/5.0 (Symbian/Anna; ARM; en-GB) AppleWebKit/63.0 (KHTML, like Gecko) Edge/63.0 Safari/63.0
+Mozilla/5.0 (BlackBerry/10.2; x86; en-US) AppleWebKit/55.0 (KHTML, like Gecko) Konqueror/55.0 Safari/55.0
+Mozilla/5.0 (Windows Phone/8.1; ARM; en-GB) AppleWebKit/86.0 (KHTML, like Gecko) Lunascape/86.0 Safari/86.0
+Mozilla/5.0 (Linux/x86_64; de-DE) AppleWebKit/52.0 (KHTML, like Gecko) Firefox/52.0 Safari/52.0
+Mozilla/5.0 (Linux/ARM; en-GB) AppleWebKit/92.0 (KHTML, like Gecko) Internet Explorer/92.0 Safari/92.0
+Mozilla/5.0 (X11/Kali Linux; x86_64; en-US) AppleWebKit/78.0 (KHTML, like Gecko) Waterfox/78.0 Safari/78.0
+Mozilla/5.0 (Windows CE/5.0; x86; en-US) AppleWebKit/94.0 (KHTML, like Gecko) UC Browser/94.0 Safari/94.0
+Mozilla/5.0 (X11/Zorin OS; x86_64; en-GB) AppleWebKit/66.0 (KHTML, like Gecko) Safari/66.0 Safari/66.0
+Mozilla/5.0 (Bada/1.2; ARM; de-DE) AppleWebKit/71.0 (KHTML, like Gecko) Brave/71.0 Safari/71.0
+Mozilla/5.0 (webOS/2.2; ARM; en-US) AppleWebKit/89.0 (KHTML, like Gecko) Vivaldi/89.0 Safari/89.0
+Mozilla/5.0 (Windows Phone/10.0; ARM; en-GB) AppleWebKit/66.0 (KHTML, like Gecko) Safari/66.0 Safari/66.0
+Mozilla/5.0 (Windows CE/7.0; x86; en-US) AppleWebKit/92.0 (KHTML, like Gecko) Mozilla/92.0 Safari/92.0
+Mozilla/5.0 (webOS/2.2; ARM; de-DE) AppleWebKit/67.0 (KHTML, like Gecko) Vivaldi/67.0 Safari/67.0
+Mozilla/5.0 (webOS/3.0; ARM; en-US) AppleWebKit/65.0 (KHTML, like Gecko) Konqueror/65.0 Safari/65.0
+Mozilla/5.0 (Tizen/3.0; ARM; fr-FR) AppleWebKit/53.0 (KHTML, like Gecko) 360 Secure Browser/53.0 Safari/53.0
+Mozilla/5.0 (Bada/1.2; ARM; fr-FR) AppleWebKit/71.0 (KHTML, like Gecko) UC Browser/71.0 Safari/71.0
+Mozilla/5.0 (Macintosh/PPC Mac OS X 10_5_8; x86; en-US) AppleWebKit/81.0 (KHTML, like Gecko) Vivaldi/81.0 Safari/81.0
+Mozilla/5.0 (Bada/2.0; ARM; fr-FR) AppleWebKit/52.0 (KHTML, like Gecko) Konqueror/52.0 Safari/52.0
+Mozilla/5.0 (Bada/1.2; ARM; en-GB) AppleWebKit/61.0 (KHTML, like Gecko) Netscape/61.0 Safari/61.0
+Mozilla/5.0 (Symbian/Anna; x86; en-GB) AppleWebKit/79.0 (KHTML, like Gecko) GreenBrowser/79.0 Safari/79.0
+Mozilla/5.0 (webOS/1.4; ARM; en-US) AppleWebKit/65.0 (KHTML, like Gecko) GreenBrowser/65.0 Safari/65.0
+Mozilla/5.0 (Android/Android 12; ARM; fr-FR) AppleWebKit/53.0 (KHTML, like Gecko) Internet Explorer/53.0 Safari/53.0
+Mozilla/5.0 (Windows CE/7.0; x86; en-GB) AppleWebKit/97.0 (KHTML, like Gecko) Brave/97.0 Safari/97.0
+Mozilla/5.0 (Android/Android 2; x86_64; en-US) AppleWebKit/76.0 (KHTML, like Gecko) Firefox/76.0 Safari/76.0
+Mozilla/5.0 (Chrome OS/13421.65.0; x86_64; fr-FR) AppleWebKit/66.0 (KHTML, like Gecko) IceCat/66.0 Safari/66.0
+Mozilla/5.0 (Windows NT/3.5; Win64; de-DE) AppleWebKit/60.0 (KHTML, like Gecko) Otter Browser/60.0 Safari/60.0
+Mozilla/5.0 (BlackBerry/10.0; x86; en-GB) AppleWebKit/81.0 (KHTML, like Gecko) Edge/81.0 Safari/81.0
+Mozilla/5.0 (Chrome OS/13421.63.0; x86_64; en-US) AppleWebKit/58.0 (KHTML, like Gecko) Maxthon/58.0 Safari/58.0
+Mozilla/5.0 (Chrome OS/13421.63.0; x86; de-DE) AppleWebKit/73.0 (KHTML, like Gecko) Vivaldi/73.0 Safari/73.0
+Mozilla/5.0 (Windows Phone/8.1; ARM; en-US) AppleWebKit/94.0 (KHTML, like Gecko) SeaMonkey/94.0 Safari/94.0
+Mozilla/5.0 (Android/Android 10; ARM; en-US) AppleWebKit/82.0 (KHTML, like Gecko) Pale Moon/82.0 Safari/82.0
+Mozilla/5.0 (Tizen/2.4; ARM; fr-FR) AppleWebKit/83.0 (KHTML, like Gecko) Vivaldi/83.0 Safari/83.0
+Mozilla/5.0 (Bada/2.0; ARM; fr-FR) AppleWebKit/68.0 (KHTML, like Gecko) Yandex Browser/68.0 Safari/68.0
+Mozilla/5.0 (Linux/ARM; en-GB) AppleWebKit/59.0 (KHTML, like Gecko) Internet Explorer/59.0 Safari/59.0
+Mozilla/5.0 (Symbian/Anna; ARM; fr-FR) AppleWebKit/60.0 (KHTML, like Gecko) Otter Browser/60.0 Safari/60.0
+Mozilla/5.0 (Android/Android 4; x86; en-GB) AppleWebKit/76.0 (KHTML, like Gecko) Brave/76.0 Safari/76.0
+Mozilla/5.0 (BlackBerry/10.2; x86; de-DE) AppleWebKit/78.0 (KHTML, like Gecko) GreenBrowser/78.0 Safari/78.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_13_6; x86; fr-FR) AppleWebKit/84.0 (KHTML, like Gecko) Avast Secure Browser/84.0 Safari/84.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_13_6; x86_64; en-US) AppleWebKit/92.0 (KHTML, like Gecko) Waterfox/92.0 Safari/92.0
+Mozilla/5.0 (BlackBerry/7.1; ARM; en-US) AppleWebKit/91.0 (KHTML, like Gecko) Firefox/91.0 Safari/91.0
+Mozilla/5.0 (Windows Phone/8.1; ARM; fr-FR) AppleWebKit/62.0 (KHTML, like Gecko) Maxthon/62.0 Safari/62.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_15_7; x86; de-DE) AppleWebKit/89.0 (KHTML, like Gecko) Chrome/89.0 Safari/89.0
+Mozilla/5.0 (webOS/3.0; ARM; en-GB) AppleWebKit/61.0 (KHTML, like Gecko) Epic Privacy Browser/61.0 Safari/61.0
+Mozilla/5.0 (Windows CE/7.0; ARM; en-GB) AppleWebKit/61.0 (KHTML, like Gecko) Otter Browser/61.0 Safari/61.0
+Mozilla/5.0 (Windows Phone/7.5; ARM; fr-FR) AppleWebKit/89.0 (KHTML, like Gecko) SeaMonkey/89.0 Safari/89.0
+Mozilla/5.0 (Windows Phone/8.1; ARM; en-US) AppleWebKit/59.0 (KHTML, like Gecko) Torch Browser/59.0 Safari/59.0
+Mozilla/5.0 (Chrome OS/13421.63.0; x86_64; fr-FR) AppleWebKit/76.0 (KHTML, like Gecko) Netscape/76.0 Safari/76.0
+Mozilla/5.0 (Tizen/4.0; ARM; fr-FR) AppleWebKit/83.0 (KHTML, like Gecko) Epic Privacy Browser/83.0 Safari/83.0
+Mozilla/5.0 (Android/Android 12; ARM; en-GB) AppleWebKit/85.0 (KHTML, like Gecko) Cent Browser/85.0 Safari/85.0
+Mozilla/5.0 (BlackBerry/10.0; ARM; en-GB) AppleWebKit/53.0 (KHTML, like Gecko) Midori/53.0 Safari/53.0
+Mozilla/5.0 (Bada/1.2; ARM; en-US) AppleWebKit/88.0 (KHTML, like Gecko) Netscape/88.0 Safari/88.0
+Mozilla/5.0 (Windows CE/5.0; x86; en-US) AppleWebKit/52.0 (KHTML, like Gecko) SeaMonkey/52.0 Safari/52.0
+Mozilla/5.0 (BlackBerry/7.1; ARM; fr-FR) AppleWebKit/92.0 (KHTML, like Gecko) GreenBrowser/92.0 Safari/92.0
+Mozilla/5.0 (Chrome OS/13421.60.0; x86_64; fr-FR) AppleWebKit/52.0 (KHTML, like Gecko) Yandex Browser/52.0 Safari/52.0
+Mozilla/5.0 (Bada/1.0; ARM; en-GB) AppleWebKit/78.0 (KHTML, like Gecko) Midori/78.0 Safari/78.0
+Mozilla/5.0 (Windows NT/2.0; Win64; de-DE) AppleWebKit/79.0 (KHTML, like Gecko) Vivaldi/79.0 Safari/79.0
+Mozilla/5.0 (Windows NT/5.1; Win64; en-GB) AppleWebKit/62.0 (KHTML, like Gecko) Lunascape/62.0 Safari/62.0
+Mozilla/5.0 (Windows NT/2.11; Win32; en-GB) AppleWebKit/66.0 (KHTML, like Gecko) Firefox/66.0 Safari/66.0
+Mozilla/5.0 (BlackBerry/7.1; ARM; en-US) AppleWebKit/75.0 (KHTML, like Gecko) UC Browser/75.0 Safari/75.0
+Mozilla/5.0 (Windows CE/6.0; ARM; fr-FR) AppleWebKit/51.0 (KHTML, like Gecko) IceCat/51.0 Safari/51.0
+Mozilla/5.0 (BlackBerry/10.2; ARM; fr-FR) AppleWebKit/76.0 (KHTML, like Gecko) Avast Secure Browser/76.0 Safari/76.0
+Mozilla/5.0 (Chrome OS/13421.62.0; x86; en-GB) AppleWebKit/69.0 (KHTML, like Gecko) GreenBrowser/69.0 Safari/69.0
+Mozilla/5.0 (webOS/2.2; ARM; en-US) AppleWebKit/74.0 (KHTML, like Gecko) SeaMonkey/74.0 Safari/74.0
+Mozilla/5.0 (webOS/2.2; ARM; fr-FR) AppleWebKit/57.0 (KHTML, like Gecko) GreenBrowser/57.0 Safari/57.0
+Mozilla/5.0 (Symbian/Belle; x86; de-DE) AppleWebKit/56.0 (KHTML, like Gecko) Avast Secure Browser/56.0 Safari/56.0
+Mozilla/5.0 (Android/Android 4; ARM64; de-DE) AppleWebKit/92.0 (KHTML, like Gecko) GreenBrowser/92.0 Safari/92.0
+Mozilla/5.0 (Symbian/S60; x86; en-GB) AppleWebKit/63.0 (KHTML, like Gecko) Internet Explorer/63.0 Safari/63.0
+Mozilla/5.0 (Bada/1.2; ARM; de-DE) AppleWebKit/79.0 (KHTML, like Gecko) Vivaldi/79.0 Safari/79.0
+Mozilla/5.0 (Symbian/Anna; ARM; en-US) AppleWebKit/73.0 (KHTML, like Gecko) GreenBrowser/73.0 Safari/73.0
+Mozilla/5.0 (Linux/x86; fr-FR) AppleWebKit/75.0 (KHTML, like Gecko) Edge/75.0 Safari/75.0
+Mozilla/5.0 (Windows Phone/7.5; ARM; de-DE) AppleWebKit/97.0 (KHTML, like Gecko) Lunascape/97.0 Safari/97.0
+Mozilla/5.0 (Windows NT/5.1; Win32; fr-FR) AppleWebKit/88.0 (KHTML, like Gecko) Avast Secure Browser/88.0 Safari/88.0
+Mozilla/5.0 (Android/Android 10; ARM64; fr-FR) AppleWebKit/82.0 (KHTML, like Gecko) Torch Browser/82.0 Safari/82.0
+Mozilla/5.0 (Windows CE/6.0; ARM; en-GB) AppleWebKit/69.0 (KHTML, like Gecko) Netscape/69.0 Safari/69.0
+Mozilla/5.0 (X11/Mandriva; x86_64; fr-FR) AppleWebKit/70.0 (KHTML, like Gecko) Midori/70.0 Safari/70.0
+Mozilla/5.0 (Linux/x86; en-US) AppleWebKit/61.0 (KHTML, like Gecko) Yandex Browser/61.0 Safari/61.0
+Mozilla/5.0 (Tizen/2.3; ARM; de-DE) AppleWebKit/96.0 (KHTML, like Gecko) Otter Browser/96.0 Safari/96.0
+Mozilla/5.0 (Chrome OS/13421.67.0; x86_64; de-DE) AppleWebKit/74.0 (KHTML, like Gecko) UC Browser/74.0 Safari/74.0
+Mozilla/5.0 (Linux/x86; en-GB) AppleWebKit/90.0 (KHTML, like Gecko) Midori/90.0 Safari/90.0
+Mozilla/5.0 (Chrome OS/13421.67.0; x86_64; en-GB) AppleWebKit/70.0 (KHTML, like Gecko) Maxthon/70.0 Safari/70.0
+Mozilla/5.0 (Tizen/3.0; ARM; en-GB) AppleWebKit/86.0 (KHTML, like Gecko) Netscape/86.0 Safari/86.0
+Mozilla/5.0 (Windows NT/3.5; Win32; en-GB) AppleWebKit/91.0 (KHTML, like Gecko) 360 Secure Browser/91.0 Safari/91.0
+Mozilla/5.0 (Windows CE/5.0; x86; en-GB) AppleWebKit/72.0 (KHTML, like Gecko) Edge/72.0 Safari/72.0
+Mozilla/5.0 (Chrome OS/13421.62.0; x86; fr-FR) AppleWebKit/80.0 (KHTML, like Gecko) Pale Moon/80.0 Safari/80.0
+Mozilla/5.0 (Bada/1.0; ARM; en-GB) AppleWebKit/73.0 (KHTML, like Gecko) Slimjet/73.0 Safari/73.0
+Mozilla/5.0 (Bada/1.0; ARM; en-US) AppleWebKit/82.0 (KHTML, like Gecko) Qutebrowser/82.0 Safari/82.0
+Mozilla/5.0 (X11/Elementary OS; x86; en-US) AppleWebKit/55.0 (KHTML, like Gecko) Otter Browser/55.0 Safari/55.0
+Mozilla/5.0 (Symbian/Anna; ARM; fr-FR) AppleWebKit/77.0 (KHTML, like Gecko) Vivaldi/77.0 Safari/77.0
+Mozilla/5.0 (Windows CE/7.0; x86; de-DE) AppleWebKit/96.0 (KHTML, like Gecko) IceCat/96.0 Safari/96.0
+Mozilla/5.0 (BlackBerry/10.3; ARM; fr-FR) AppleWebKit/86.0 (KHTML, like Gecko) 360 Secure Browser/86.0 Safari/86.0
+Mozilla/5.0 (Macintosh/PPC Mac OS X 10_4_11; x86_64; de-DE) AppleWebKit/72.0 (KHTML, like Gecko) Cent Browser/72.0 Safari/72.0
+Mozilla/5.0 (Linux/ARM64; en-US) AppleWebKit/73.0 (KHTML, like Gecko) Qutebrowser/73.0 Safari/73.0
+Mozilla/5.0 (Android/Android 2; x86; en-GB) AppleWebKit/57.0 (KHTML, like Gecko) Internet Explorer/57.0 Safari/57.0
+Mozilla/5.0 (BlackBerry/10.0; ARM; en-GB) AppleWebKit/95.0 (KHTML, like Gecko) SeaMonkey/95.0 Safari/95.0
+Mozilla/5.0 (Android/Android 8; x86; en-GB) AppleWebKit/66.0 (KHTML, like Gecko) Midori/66.0 Safari/66.0
+Mozilla/5.0 (Windows Phone/8.0; ARM; en-GB) AppleWebKit/81.0 (KHTML, like Gecko) Maxthon/81.0 Safari/81.0
+Mozilla/5.0 (Symbian/Anna; ARM; de-DE) AppleWebKit/55.0 (KHTML, like Gecko) Safari/55.0 Safari/55.0
+Mozilla/5.0 (Tizen/2.3; ARM; en-US) AppleWebKit/99.0 (KHTML, like Gecko) Konqueror/99.0 Safari/99.0
+Mozilla/5.0 (Windows CE/5.0; ARM; en-US) AppleWebKit/81.0 (KHTML, like Gecko) Maxthon/81.0 Safari/81.0
+Mozilla/5.0 (Chrome OS/13421.63.0; x86; en-US) AppleWebKit/73.0 (KHTML, like Gecko) Qutebrowser/73.0 Safari/73.0
+Mozilla/5.0 (Symbian/S60; x86; de-DE) AppleWebKit/78.0 (KHTML, like Gecko) Torch Browser/78.0 Safari/78.0
+Mozilla/5.0 (webOS/1.0; ARM; de-DE) AppleWebKit/80.0 (KHTML, like Gecko) Netscape/80.0 Safari/80.0
+Mozilla/5.0 (X11/Mandriva; x86_64; de-DE) AppleWebKit/83.0 (KHTML, like Gecko) Pale Moon/83.0 Safari/83.0
+Mozilla/5.0 (X11/Linux Mint; x86; en-US) AppleWebKit/67.0 (KHTML, like Gecko) UC Browser/67.0 Safari/67.0
+Mozilla/5.0 (Android/Android 10; ARM64; fr-FR) AppleWebKit/64.0 (KHTML, like Gecko) Midori/64.0 Safari/64.0
+Mozilla/5.0 (X11/Slackware; x86; de-DE) AppleWebKit/61.0 (KHTML, like Gecko) Cent Browser/61.0 Safari/61.0
+Mozilla/5.0 (webOS/1.4; ARM; en-GB) AppleWebKit/95.0 (KHTML, like Gecko) Edge/95.0 Safari/95.0
+Mozilla/5.0 (Symbian/Anna; ARM; fr-FR) AppleWebKit/65.0 (KHTML, like Gecko) UC Browser/65.0 Safari/65.0
+Mozilla/5.0 (X11/Slackware; x86; fr-FR) AppleWebKit/68.0 (KHTML, like Gecko) Firefox/68.0 Safari/68.0
+Mozilla/5.0 (webOS/3.0; ARM; en-US) AppleWebKit/80.0 (KHTML, like Gecko) Safari/80.0 Safari/80.0
+Mozilla/5.0 (X11/Elementary OS; x86_64; fr-FR) AppleWebKit/53.0 (KHTML, like Gecko) Pale Moon/53.0 Safari/53.0
+Mozilla/5.0 (Linux/x86_64; en-GB) AppleWebKit/75.0 (KHTML, like Gecko) Samsung Internet/75.0 Safari/75.0
+Mozilla/5.0 (webOS/1.4; ARM; en-US) AppleWebKit/80.0 (KHTML, like Gecko) Internet Explorer/80.0 Safari/80.0
+Mozilla/5.0 (Linux/x86_64; en-US) AppleWebKit/92.0 (KHTML, like Gecko) Qutebrowser/92.0 Safari/92.0
+Mozilla/5.0 (Bada/1.2; ARM; en-US) AppleWebKit/65.0 (KHTML, like Gecko) Maxthon/65.0 Safari/65.0
+Mozilla/5.0 (Linux/x86_64; de-DE) AppleWebKit/97.0 (KHTML, like Gecko) Konqueror/97.0 Safari/97.0
+Mozilla/5.0 (X11/Ubuntu; x86_64; fr-FR) AppleWebKit/76.0 (KHTML, like Gecko) Firefox/76.0 Safari/76.0
+Mozilla/5.0 (webOS/3.0; ARM; fr-FR) AppleWebKit/52.0 (KHTML, like Gecko) Lunascape/52.0 Safari/52.0
+Mozilla/5.0 (Windows CE/6.0; ARM; de-DE) AppleWebKit/76.0 (KHTML, like Gecko) Cent Browser/76.0 Safari/76.0
+Mozilla/5.0 (X11/Chromium OS; x86; en-US) AppleWebKit/69.0 (KHTML, like Gecko) Avast Secure Browser/69.0 Safari/69.0
+Mozilla/5.0 (Macintosh/PPC Mac OS X 10_4_11; x86; de-DE) AppleWebKit/68.0 (KHTML, like Gecko) Brave/68.0 Safari/68.0
+Mozilla/5.0 (Android/Android 2; ARM; en-US) AppleWebKit/53.0 (KHTML, like Gecko) Avast Secure Browser/53.0 Safari/53.0
+Mozilla/5.0 (X11/Zorin OS; x86_64; fr-FR) AppleWebKit/91.0 (KHTML, like Gecko) Torch Browser/91.0 Safari/91.0
+Mozilla/5.0 (Windows NT/2.1; Win64; fr-FR) AppleWebKit/57.0 (KHTML, like Gecko) Opera/57.0 Safari/57.0
+Mozilla/5.0 (Symbian/S60; ARM; en-GB) AppleWebKit/90.0 (KHTML, like Gecko) GreenBrowser/90.0 Safari/90.0
+Mozilla/5.0 (BlackBerry/10.1; ARM; en-GB) AppleWebKit/65.0 (KHTML, like Gecko) Edge/65.0 Safari/65.0
+Mozilla/5.0 (Chrome OS/13421.64.0; x86_64; fr-FR) AppleWebKit/66.0 (KHTML, like Gecko) Cent Browser/66.0 Safari/66.0
+Mozilla/5.0 (Symbian/Anna; x86; en-GB) AppleWebKit/98.0 (KHTML, like Gecko) UC Browser/98.0 Safari/98.0
+Mozilla/5.0 (Windows NT/5.1; Win32; en-GB) AppleWebKit/74.0 (KHTML, like Gecko) SeaMonkey/74.0 Safari/74.0
+Mozilla/5.0 (webOS/1.0; ARM; en-GB) AppleWebKit/55.0 (KHTML, like Gecko) Slimjet/55.0 Safari/55.0
+Mozilla/5.0 (Android/Android 9; x86; en-US) AppleWebKit/80.0 (KHTML, like Gecko) Vivaldi/80.0 Safari/80.0
+Mozilla/5.0 (Chrome OS/13421.67.0; x86_64; en-GB) AppleWebKit/98.0 (KHTML, like Gecko) Mozilla/98.0 Safari/98.0
+Mozilla/5.0 (X11/BackBox; x86_64; en-US) AppleWebKit/58.0 (KHTML, like Gecko) Vivaldi/58.0 Safari/58.0
+Mozilla/5.0 (Windows CE/5.0; x86; en-GB) AppleWebKit/73.0 (KHTML, like Gecko) Epic Privacy Browser/73.0 Safari/73.0
+Mozilla/5.0 (Windows CE/7.0; ARM; en-GB) AppleWebKit/65.0 (KHTML, like Gecko) GreenBrowser/65.0 Safari/65.0
+Mozilla/5.0 (Symbian/S60; ARM; de-DE) AppleWebKit/90.0 (KHTML, like Gecko) Otter Browser/90.0 Safari/90.0
+Mozilla/5.0 (Chrome OS/13421.61.0; x86_64; en-US) AppleWebKit/73.0 (KHTML, like Gecko) IceCat/73.0 Safari/73.0
+Mozilla/5.0 (Windows Phone/8.1; ARM; en-GB) AppleWebKit/61.0 (KHTML, like Gecko) Avast Secure Browser/61.0 Safari/61.0
+Mozilla/5.0 (Windows CE/6.0; x86; de-DE) AppleWebKit/78.0 (KHTML, like Gecko) Konqueror/78.0 Safari/78.0
+Mozilla/5.0 (Tizen/3.0; ARM; de-DE) AppleWebKit/96.0 (KHTML, like Gecko) Yandex Browser/96.0 Safari/96.0
+Mozilla/5.0 (Bada/1.0; ARM; en-GB) AppleWebKit/79.0 (KHTML, like Gecko) Safari/79.0 Safari/79.0
+Mozilla/5.0 (Tizen/4.0; ARM; fr-FR) AppleWebKit/97.0 (KHTML, like Gecko) Mozilla/97.0 Safari/97.0
+Mozilla/5.0 (BlackBerry/10.3; ARM; de-DE) AppleWebKit/74.0 (KHTML, like Gecko) Epic Privacy Browser/74.0 Safari/74.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_11_6; x86; fr-FR) AppleWebKit/66.0 (KHTML, like Gecko) Pale Moon/66.0 Safari/66.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_15_7; x86; fr-FR) AppleWebKit/53.0 (KHTML, like Gecko) Mozilla/53.0 Safari/53.0
+Mozilla/5.0 (Windows NT/4.0; Win64; fr-FR) AppleWebKit/59.0 (KHTML, like Gecko) GreenBrowser/59.0 Safari/59.0
+Mozilla/5.0 (Linux/x86; fr-FR) AppleWebKit/54.0 (KHTML, like Gecko) Torch Browser/54.0 Safari/54.0
+Mozilla/5.0 (Tizen/4.0; ARM; fr-FR) AppleWebKit/81.0 (KHTML, like Gecko) UC Browser/81.0 Safari/81.0
+Mozilla/5.0 (Chrome OS/13421.62.0; x86; en-GB) AppleWebKit/84.0 (KHTML, like Gecko) Netscape/84.0 Safari/84.0
+Mozilla/5.0 (Android/Android 6; x86_64; en-US) AppleWebKit/86.0 (KHTML, like Gecko) Mozilla/86.0 Safari/86.0
+Mozilla/5.0 (Windows NT/3.51; Win64; en-GB) AppleWebKit/79.0 (KHTML, like Gecko) Chrome/79.0 Safari/79.0
+Mozilla/5.0 (Chrome OS/13421.61.0; x86; en-US) AppleWebKit/73.0 (KHTML, like Gecko) Internet Explorer/73.0 Safari/73.0
+Mozilla/5.0 (Symbian/S60; x86; fr-FR) AppleWebKit/52.0 (KHTML, like Gecko) Mozilla/52.0 Safari/52.0
+Mozilla/5.0 (Windows NT/3.0; Win32; en-US) AppleWebKit/82.0 (KHTML, like Gecko) IceCat/82.0 Safari/82.0
+Mozilla/5.0 (Android/Android 11; x86_64; en-US) AppleWebKit/53.0 (KHTML, like Gecko) Vivaldi/53.0 Safari/53.0
+Mozilla/5.0 (Windows CE/6.0; x86; de-DE) AppleWebKit/68.0 (KHTML, like Gecko) Epic Privacy Browser/68.0 Safari/68.0
+Mozilla/5.0 (Bada/1.0; ARM; de-DE) AppleWebKit/99.0 (KHTML, like Gecko) Chrome/99.0 Safari/99.0
+Mozilla/5.0 (Tizen/4.0; ARM; de-DE) AppleWebKit/84.0 (KHTML, like Gecko) Edge/84.0 Safari/84.0
+Mozilla/5.0 (webOS/1.4; ARM; en-US) AppleWebKit/98.0 (KHTML, like Gecko) Yandex Browser/98.0 Safari/98.0
+Mozilla/5.0 (Chrome OS/13421.62.0; x86_64; fr-FR) AppleWebKit/99.0 (KHTML, like Gecko) Waterfox/99.0 Safari/99.0
+Mozilla/5.0 (webOS/1.0; ARM; en-US) AppleWebKit/85.0 (KHTML, like Gecko) Firefox/85.0 Safari/85.0
+Mozilla/5.0 (Windows NT/3.0; Win32; fr-FR) AppleWebKit/52.0 (KHTML, like Gecko) Internet Explorer/52.0 Safari/52.0
+Mozilla/5.0 (Windows Phone/8.1; ARM; en-GB) AppleWebKit/88.0 (KHTML, like Gecko) Waterfox/88.0 Safari/88.0
+Mozilla/5.0 (Windows CE/7.0; x86; fr-FR) AppleWebKit/59.0 (KHTML, like Gecko) Epic Privacy Browser/59.0 Safari/59.0
+Mozilla/5.0 (Bada/1.0; ARM; en-US) AppleWebKit/87.0 (KHTML, like Gecko) Epic Privacy Browser/87.0 Safari/87.0
+Mozilla/5.0 (webOS/3.0; ARM; en-US) AppleWebKit/60.0 (KHTML, like Gecko) Slimjet/60.0 Safari/60.0
+Mozilla/5.0 (Tizen/2.3; ARM; fr-FR) AppleWebKit/87.0 (KHTML, like Gecko) Torch Browser/87.0 Safari/87.0
+Mozilla/5.0 (Linux/x86_64; de-DE) AppleWebKit/64.0 (KHTML, like Gecko) Torch Browser/64.0 Safari/64.0
+Mozilla/5.0 (Tizen/2.3; ARM; de-DE) AppleWebKit/53.0 (KHTML, like Gecko) Avast Secure Browser/53.0 Safari/53.0
+Mozilla/5.0 (Windows Phone/10.0; ARM; fr-FR) AppleWebKit/67.0 (KHTML, like Gecko) SeaMonkey/67.0 Safari/67.0
+Mozilla/5.0 (Android/Android 12; ARM64; en-US) AppleWebKit/83.0 (KHTML, like Gecko) GreenBrowser/83.0 Safari/83.0
+Mozilla/5.0 (webOS/1.4; ARM; en-GB) AppleWebKit/77.0 (KHTML, like Gecko) Maxthon/77.0 Safari/77.0
+Mozilla/5.0 (Windows NT/5.0; Win32; de-DE) AppleWebKit/80.0 (KHTML, like Gecko) Cent Browser/80.0 Safari/80.0
+Mozilla/5.0 (Android/Android 10; x86_64; fr-FR) AppleWebKit/73.0 (KHTML, like Gecko) Avast Secure Browser/73.0 Safari/73.0
+Mozilla/5.0 (Android/Android 7; x86_64; en-GB) AppleWebKit/64.0 (KHTML, like Gecko) Cent Browser/64.0 Safari/64.0
+Mozilla/5.0 (Chrome OS/13421.62.0; x86; de-DE) AppleWebKit/94.0 (KHTML, like Gecko) Firefox/94.0 Safari/94.0
+Mozilla/5.0 (Android/Android 5; ARM64; fr-FR) AppleWebKit/95.0 (KHTML, like Gecko) UC Browser/95.0 Safari/95.0
+Mozilla/5.0 (Bada/2.0; ARM; fr-FR) AppleWebKit/97.0 (KHTML, like Gecko) Internet Explorer/97.0 Safari/97.0
+Mozilla/5.0 (BlackBerry/6.0; x86; en-US) AppleWebKit/56.0 (KHTML, like Gecko) Internet Explorer/56.0 Safari/56.0
+Mozilla/5.0 (Windows NT/5.1; Win64; en-GB) AppleWebKit/82.0 (KHTML, like Gecko) Qutebrowser/82.0 Safari/82.0
+Mozilla/5.0 (BlackBerry/6.0; x86; fr-FR) AppleWebKit/54.0 (KHTML, like Gecko) SeaMonkey/54.0 Safari/54.0
+Mozilla/5.0 (webOS/1.0; ARM; en-GB) AppleWebKit/58.0 (KHTML, like Gecko) UC Browser/58.0 Safari/58.0
+Mozilla/5.0 (BlackBerry/7.1; x86; de-DE) AppleWebKit/90.0 (KHTML, like Gecko) Chrome/90.0 Safari/90.0
+Mozilla/5.0 (Tizen/2.3; ARM; fr-FR) AppleWebKit/93.0 (KHTML, like Gecko) Otter Browser/93.0 Safari/93.0
+Mozilla/5.0 (Tizen/3.0; ARM; en-GB) AppleWebKit/58.0 (KHTML, like Gecko) Lunascape/58.0 Safari/58.0
+Mozilla/5.0 (Linux/ARM; en-US) AppleWebKit/83.0 (KHTML, like Gecko) Slimjet/83.0 Safari/83.0
+Mozilla/5.0 (Windows Phone/8.0; ARM; de-DE) AppleWebKit/83.0 (KHTML, like Gecko) Internet Explorer/83.0 Safari/83.0
+Mozilla/5.0 (Windows NT/3.5; Win32; fr-FR) AppleWebKit/89.0 (KHTML, like Gecko) Internet Explorer/89.0 Safari/89.0
+Mozilla/5.0 (X11/Elementary OS; x86; fr-FR) AppleWebKit/50.0 (KHTML, like Gecko) Slimjet/50.0 Safari/50.0
+Mozilla/5.0 (Android/Android 10; ARM; fr-FR) AppleWebKit/52.0 (KHTML, like Gecko) Samsung Internet/52.0 Safari/52.0
+Mozilla/5.0 (Tizen/2.4; ARM; en-GB) AppleWebKit/72.0 (KHTML, like Gecko) Epic Privacy Browser/72.0 Safari/72.0
+Mozilla/5.0 (webOS/1.0; ARM; en-GB) AppleWebKit/94.0 (KHTML, like Gecko) Safari/94.0 Safari/94.0
+Mozilla/5.0 (X11/Arch Linux; x86; en-GB) AppleWebKit/62.0 (KHTML, like Gecko) SeaMonkey/62.0 Safari/62.0
+Mozilla/5.0 (Bada/1.2; ARM; fr-FR) AppleWebKit/59.0 (KHTML, like Gecko) Chrome/59.0 Safari/59.0
+Mozilla/5.0 (Bada/1.2; ARM; fr-FR) AppleWebKit/58.0 (KHTML, like Gecko) Maxthon/58.0 Safari/58.0
+Mozilla/5.0 (Chrome OS/13421.60.0; x86; fr-FR) AppleWebKit/82.0 (KHTML, like Gecko) Cent Browser/82.0 Safari/82.0
+Mozilla/5.0 (Tizen/2.4; ARM; en-GB) AppleWebKit/63.0 (KHTML, like Gecko) Internet Explorer/63.0 Safari/63.0
+Mozilla/5.0 (Linux/ARM64; en-US) AppleWebKit/67.0 (KHTML, like Gecko) Samsung Internet/67.0 Safari/67.0
+Mozilla/5.0 (Linux/x86_64; fr-FR) AppleWebKit/68.0 (KHTML, like Gecko) Pale Moon/68.0 Safari/68.0
+Mozilla/5.0 (Windows Phone/8.0; ARM; en-US) AppleWebKit/90.0 (KHTML, like Gecko) UC Browser/90.0 Safari/90.0
+Mozilla/5.0 (Tizen/2.3; ARM; en-US) AppleWebKit/93.0 (KHTML, like Gecko) Qutebrowser/93.0 Safari/93.0
+Mozilla/5.0 (Android/Android 7; x86; en-GB) AppleWebKit/94.0 (KHTML, like Gecko) Edge/94.0 Safari/94.0
+Mozilla/5.0 (BlackBerry/7.1; ARM; en-GB) AppleWebKit/68.0 (KHTML, like Gecko) Midori/68.0 Safari/68.0
+Mozilla/5.0 (Windows CE/5.0; ARM; en-GB) AppleWebKit/92.0 (KHTML, like Gecko) Mozilla/92.0 Safari/92.0
+Mozilla/5.0 (X11/Zorin OS; x86_64; en-GB) AppleWebKit/85.0 (KHTML, like Gecko) Pale Moon/85.0 Safari/85.0
+Mozilla/5.0 (Tizen/2.3; ARM; fr-FR) AppleWebKit/66.0 (KHTML, like Gecko) Firefox/66.0 Safari/66.0
+Mozilla/5.0 (Linux/x86; en-GB) AppleWebKit/77.0 (KHTML, like Gecko) Waterfox/77.0 Safari/77.0
+Mozilla/5.0 (Windows Phone/7.0; ARM; en-GB) AppleWebKit/57.0 (KHTML, like Gecko) IceCat/57.0 Safari/57.0
+Mozilla/5.0 (Macintosh/68K; x86_64; de-DE) AppleWebKit/81.0 (KHTML, like Gecko) Brave/81.0 Safari/81.0
+Mozilla/5.0 (Linux/ARM64; en-US) AppleWebKit/72.0 (KHTML, like Gecko) Avast Secure Browser/72.0 Safari/72.0
+Mozilla/5.0 (Symbian/Anna; x86; de-DE) AppleWebKit/80.0 (KHTML, like Gecko) Otter Browser/80.0 Safari/80.0
+Mozilla/5.0 (Tizen/4.0; ARM; de-DE) AppleWebKit/84.0 (KHTML, like Gecko) Konqueror/84.0 Safari/84.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_12_6; x86_64; en-GB) AppleWebKit/86.0 (KHTML, like Gecko) Pale Moon/86.0 Safari/86.0
+Mozilla/5.0 (Chrome OS/13421.65.0; x86; en-US) AppleWebKit/62.0 (KHTML, like Gecko) Konqueror/62.0 Safari/62.0
+Mozilla/5.0 (Linux/x86_64; de-DE) AppleWebKit/60.0 (KHTML, like Gecko) Netscape/60.0 Safari/60.0
+Mozilla/5.0 (Windows Phone/8.1; ARM; en-GB) AppleWebKit/97.0 (KHTML, like Gecko) Vivaldi/97.0 Safari/97.0
+Mozilla/5.0 (Linux/x86_64; en-US) AppleWebKit/73.0 (KHTML, like Gecko) Opera/73.0 Safari/73.0
+Mozilla/5.0 (Windows Phone/7.5; ARM; en-US) AppleWebKit/83.0 (KHTML, like Gecko) IceCat/83.0 Safari/83.0
+Mozilla/5.0 (Linux/x86_64; en-GB) AppleWebKit/71.0 (KHTML, like Gecko) GreenBrowser/71.0 Safari/71.0
+Mozilla/5.0 (X11/Debian; x86; de-DE) AppleWebKit/71.0 (KHTML, like Gecko) 360 Secure Browser/71.0 Safari/71.0
+Mozilla/5.0 (BlackBerry/10.2; x86; en-GB) AppleWebKit/59.0 (KHTML, like Gecko) Opera/59.0 Safari/59.0
+Mozilla/5.0 (Symbian/Belle; ARM; de-DE) AppleWebKit/51.0 (KHTML, like Gecko) Netscape/51.0 Safari/51.0
+Mozilla/5.0 (Android/Android 4; ARM; en-US) AppleWebKit/71.0 (KHTML, like Gecko) Qutebrowser/71.0 Safari/71.0
+Mozilla/5.0 (Bada/2.0; ARM; en-GB) AppleWebKit/87.0 (KHTML, like Gecko) Samsung Internet/87.0 Safari/87.0
+Mozilla/5.0 (Bada/2.0; ARM; fr-FR) AppleWebKit/83.0 (KHTML, like Gecko) Waterfox/83.0 Safari/83.0
+Mozilla/5.0 (Bada/2.0; ARM; de-DE) AppleWebKit/81.0 (KHTML, like Gecko) Avast Secure Browser/81.0 Safari/81.0
+Mozilla/5.0 (Symbian/S60; x86; en-US) AppleWebKit/75.0 (KHTML, like Gecko) Samsung Internet/75.0 Safari/75.0
+Mozilla/5.0 (Windows Phone/8.1; ARM; en-GB) AppleWebKit/58.0 (KHTML, like Gecko) Maxthon/58.0 Safari/58.0
+Mozilla/5.0 (Chrome OS/13421.62.0; x86_64; en-US) AppleWebKit/85.0 (KHTML, like Gecko) Lunascape/85.0 Safari/85.0
+Mozilla/5.0 (BlackBerry/10.3; ARM; de-DE) AppleWebKit/67.0 (KHTML, like Gecko) Edge/67.0 Safari/67.0
+Mozilla/5.0 (Tizen/3.0; ARM; de-DE) AppleWebKit/92.0 (KHTML, like Gecko) Internet Explorer/92.0 Safari/92.0
+Mozilla/5.0 (Android/Android 10; x86; fr-FR) AppleWebKit/80.0 (KHTML, like Gecko) Otter Browser/80.0 Safari/80.0
+Mozilla/5.0 (X11/Red Hat; x86_64; de-DE) AppleWebKit/55.0 (KHTML, like Gecko) Maxthon/55.0 Safari/55.0
+Mozilla/5.0 (Linux/ARM; en-US) AppleWebKit/86.0 (KHTML, like Gecko) UC Browser/86.0 Safari/86.0
+Mozilla/5.0 (Tizen/4.0; ARM; en-US) AppleWebKit/68.0 (KHTML, like Gecko) Otter Browser/68.0 Safari/68.0
+Mozilla/5.0 (Symbian/S60; x86; fr-FR) AppleWebKit/75.0 (KHTML, like Gecko) Edge/75.0 Safari/75.0
+Mozilla/5.0 (Windows NT/10.0; Win32; en-GB) AppleWebKit/55.0 (KHTML, like Gecko) Netscape/55.0 Safari/55.0
+Mozilla/5.0 (Symbian/Anna; x86; en-US) AppleWebKit/98.0 (KHTML, like Gecko) Netscape/98.0 Safari/98.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_15_7; x86; en-GB) AppleWebKit/69.0 (KHTML, like Gecko) Edge/69.0 Safari/69.0
+Mozilla/5.0 (Tizen/2.3; ARM; en-US) AppleWebKit/93.0 (KHTML, like Gecko) Firefox/93.0 Safari/93.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_14_6; x86; fr-FR) AppleWebKit/87.0 (KHTML, like Gecko) Slimjet/87.0 Safari/87.0
+Mozilla/5.0 (Android/Android 10; ARM64; en-GB) AppleWebKit/87.0 (KHTML, like Gecko) 360 Secure Browser/87.0 Safari/87.0
+Mozilla/5.0 (Chrome OS/13421.61.0; x86; en-US) AppleWebKit/88.0 (KHTML, like Gecko) Chrome/88.0 Safari/88.0
+Mozilla/5.0 (Chrome OS/13421.64.0; x86; en-US) AppleWebKit/79.0 (KHTML, like Gecko) Midori/79.0 Safari/79.0
+Mozilla/5.0 (Chrome OS/13421.67.0; x86; fr-FR) AppleWebKit/84.0 (KHTML, like Gecko) Avast Secure Browser/84.0 Safari/84.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_12_6; x86; en-US) AppleWebKit/89.0 (KHTML, like Gecko) Firefox/89.0 Safari/89.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_13_6; x86_64; en-US) AppleWebKit/77.0 (KHTML, like Gecko) Pale Moon/77.0 Safari/77.0
+Mozilla/5.0 (Windows Phone/7.5; ARM; fr-FR) AppleWebKit/91.0 (KHTML, like Gecko) Pale Moon/91.0 Safari/91.0
+Mozilla/5.0 (Bada/2.0; ARM; fr-FR) AppleWebKit/77.0 (KHTML, like Gecko) Pale Moon/77.0 Safari/77.0
+Mozilla/5.0 (Macintosh/PowerPC; x86_64; de-DE) AppleWebKit/68.0 (KHTML, like Gecko) Mozilla/68.0 Safari/68.0
+Mozilla/5.0 (X11/Chromium OS; x86_64; de-DE) AppleWebKit/84.0 (KHTML, like Gecko) Samsung Internet/84.0 Safari/84.0
+Mozilla/5.0 (Bada/2.0; ARM; en-US) AppleWebKit/75.0 (KHTML, like Gecko) SeaMonkey/75.0 Safari/75.0
+Mozilla/5.0 (Bada/2.0; ARM; de-DE) AppleWebKit/98.0 (KHTML, like Gecko) GreenBrowser/98.0 Safari/98.0
+Mozilla/5.0 (Chrome OS/13421.63.0; x86_64; en-GB) AppleWebKit/54.0 (KHTML, like Gecko) Torch Browser/54.0 Safari/54.0
+Mozilla/5.0 (Chrome OS/13421.62.0; x86_64; fr-FR) AppleWebKit/66.0 (KHTML, like Gecko) Maxthon/66.0 Safari/66.0
+Mozilla/5.0 (Android/Android 5; ARM; fr-FR) AppleWebKit/53.0 (KHTML, like Gecko) SeaMonkey/53.0 Safari/53.0
+Mozilla/5.0 (Symbian/Anna; x86; en-US) AppleWebKit/55.0 (KHTML, like Gecko) Avast Secure Browser/55.0 Safari/55.0
+Mozilla/5.0 (Tizen/2.3; ARM; fr-FR) AppleWebKit/59.0 (KHTML, like Gecko) Avast Secure Browser/59.0 Safari/59.0
+Mozilla/5.0 (Tizen/4.0; ARM; de-DE) AppleWebKit/90.0 (KHTML, like Gecko) Safari/90.0 Safari/90.0
+Mozilla/5.0 (Windows Phone/10.0; ARM; en-GB) AppleWebKit/60.0 (KHTML, like Gecko) Torch Browser/60.0 Safari/60.0
+Mozilla/5.0 (X11/Mandriva; x86; fr-FR) AppleWebKit/99.0 (KHTML, like Gecko) Brave/99.0 Safari/99.0
+Mozilla/5.0 (Bada/1.0; ARM; en-GB) AppleWebKit/99.0 (KHTML, like Gecko) Qutebrowser/99.0 Safari/99.0
+Mozilla/5.0 (Bada/2.0; ARM; fr-FR) AppleWebKit/86.0 (KHTML, like Gecko) Midori/86.0 Safari/86.0
+Mozilla/5.0 (Bada/1.0; ARM; en-US) AppleWebKit/97.0 (KHTML, like Gecko) Qutebrowser/97.0 Safari/97.0
+Mozilla/5.0 (Linux/x86_64; fr-FR) AppleWebKit/64.0 (KHTML, like Gecko) Brave/64.0 Safari/64.0
+Mozilla/5.0 (Bada/1.2; ARM; en-GB) AppleWebKit/53.0 (KHTML, like Gecko) Waterfox/53.0 Safari/53.0
+Mozilla/5.0 (Linux/x86_64; de-DE) AppleWebKit/71.0 (KHTML, like Gecko) Lunascape/71.0 Safari/71.0
+Mozilla/5.0 (webOS/3.0; ARM; en-GB) AppleWebKit/81.0 (KHTML, like Gecko) Waterfox/81.0 Safari/81.0
+Mozilla/5.0 (Macintosh/PowerPC; x86; fr-FR) AppleWebKit/95.0 (KHTML, like Gecko) IceCat/95.0 Safari/95.0
+Mozilla/5.0 (Tizen/2.3; ARM; en-US) AppleWebKit/71.0 (KHTML, like Gecko) Avast Secure Browser/71.0 Safari/71.0
+Mozilla/5.0 (Symbian/S60; ARM; fr-FR) AppleWebKit/52.0 (KHTML, like Gecko) Epic Privacy Browser/52.0 Safari/52.0
+Mozilla/5.0 (Chrome OS/13421.60.0; x86; de-DE) AppleWebKit/59.0 (KHTML, like Gecko) Pale Moon/59.0 Safari/59.0
+Mozilla/5.0 (Chrome OS/13421.61.0; x86_64; en-US) AppleWebKit/93.0 (KHTML, like Gecko) Torch Browser/93.0 Safari/93.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_13_6; x86_64; de-DE) AppleWebKit/60.0 (KHTML, like Gecko) Pale Moon/60.0 Safari/60.0
+Mozilla/5.0 (Macintosh/PPC Mac OS X 10_4_11; x86_64; en-GB) AppleWebKit/80.0 (KHTML, like Gecko) Epic Privacy Browser/80.0 Safari/80.0
+Mozilla/5.0 (Windows Phone/10.0; ARM; en-GB) AppleWebKit/54.0 (KHTML, like Gecko) UC Browser/54.0 Safari/54.0
+Mozilla/5.0 (Symbian/Anna; x86; en-US) AppleWebKit/72.0 (KHTML, like Gecko) Netscape/72.0 Safari/72.0
+Mozilla/5.0 (Chrome OS/13421.65.0; x86_64; de-DE) AppleWebKit/63.0 (KHTML, like Gecko) Torch Browser/63.0 Safari/63.0
+Mozilla/5.0 (Bada/2.0; ARM; en-GB) AppleWebKit/65.0 (KHTML, like Gecko) UC Browser/65.0 Safari/65.0
+Mozilla/5.0 (Bada/1.0; ARM; de-DE) AppleWebKit/68.0 (KHTML, like Gecko) Edge/68.0 Safari/68.0
+Mozilla/5.0 (Tizen/2.3; ARM; en-GB) AppleWebKit/63.0 (KHTML, like Gecko) Opera/63.0 Safari/63.0
+Mozilla/5.0 (Android/Android 5; x86; de-DE) AppleWebKit/61.0 (KHTML, like Gecko) Slimjet/61.0 Safari/61.0
+Mozilla/5.0 (Tizen/2.4; ARM; de-DE) AppleWebKit/82.0 (KHTML, like Gecko) Firefox/82.0 Safari/82.0
+Mozilla/5.0 (X11/Ubuntu; x86_64; en-GB) AppleWebKit/53.0 (KHTML, like Gecko) Mozilla/53.0 Safari/53.0
+Mozilla/5.0 (Linux/x86; de-DE) AppleWebKit/63.0 (KHTML, like Gecko) SeaMonkey/63.0 Safari/63.0
+Mozilla/5.0 (Bada/1.2; ARM; en-US) AppleWebKit/89.0 (KHTML, like Gecko) SeaMonkey/89.0 Safari/89.0
+Mozilla/5.0 (Android/Android 8; ARM; fr-FR) AppleWebKit/86.0 (KHTML, like Gecko) Avast Secure Browser/86.0 Safari/86.0
+Mozilla/5.0 (Windows NT/6.2; Win64; en-GB) AppleWebKit/99.0 (KHTML, like Gecko) Qutebrowser/99.0 Safari/99.0
+Mozilla/5.0 (Windows CE/7.0; ARM; en-GB) AppleWebKit/98.0 (KHTML, like Gecko) Netscape/98.0 Safari/98.0
+Mozilla/5.0 (Windows CE/5.0; x86; de-DE) AppleWebKit/53.0 (KHTML, like Gecko) Qutebrowser/53.0 Safari/53.0
+Mozilla/5.0 (Linux/ARM64; fr-FR) AppleWebKit/83.0 (KHTML, like Gecko) Avast Secure Browser/83.0 Safari/83.0
+Mozilla/5.0 (BlackBerry/6.0; x86; de-DE) AppleWebKit/56.0 (KHTML, like Gecko) Cent Browser/56.0 Safari/56.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_12_6; x86_64; en-US) AppleWebKit/81.0 (KHTML, like Gecko) SeaMonkey/81.0 Safari/81.0
+Mozilla/5.0 (Linux/x86_64; en-US) AppleWebKit/69.0 (KHTML, like Gecko) Torch Browser/69.0 Safari/69.0
+Mozilla/5.0 (Windows NT/5.2; Win64; en-GB) AppleWebKit/66.0 (KHTML, like Gecko) Vivaldi/66.0 Safari/66.0
+Mozilla/5.0 (Chrome OS/13421.66.0; x86_64; de-DE) AppleWebKit/56.0 (KHTML, like Gecko) Waterfox/56.0 Safari/56.0
+Mozilla/5.0 (webOS/1.4; ARM; en-US) AppleWebKit/86.0 (KHTML, like Gecko) Epic Privacy Browser/86.0 Safari/86.0
+Mozilla/5.0 (Tizen/2.3; ARM; en-GB) AppleWebKit/82.0 (KHTML, like Gecko) Lunascape/82.0 Safari/82.0
+Mozilla/5.0 (Chrome OS/13421.64.0; x86_64; fr-FR) AppleWebKit/60.0 (KHTML, like Gecko) Pale Moon/60.0 Safari/60.0
+Mozilla/5.0 (Windows Phone/7.5; ARM; fr-FR) AppleWebKit/56.0 (KHTML, like Gecko) Yandex Browser/56.0 Safari/56.0
+Mozilla/5.0 (BlackBerry/6.0; ARM; de-DE) AppleWebKit/89.0 (KHTML, like Gecko) Pale Moon/89.0 Safari/89.0
+Mozilla/5.0 (BlackBerry/10.0; ARM; en-US) AppleWebKit/61.0 (KHTML, like Gecko) Konqueror/61.0 Safari/61.0
+Mozilla/5.0 (Symbian/Anna; x86; en-US) AppleWebKit/78.0 (KHTML, like Gecko) Samsung Internet/78.0 Safari/78.0
+Mozilla/5.0 (Android/Android 5; x86; en-US) AppleWebKit/80.0 (KHTML, like Gecko) Midori/80.0 Safari/80.0
+Mozilla/5.0 (Windows NT/6.0; Win64; fr-FR) AppleWebKit/71.0 (KHTML, like Gecko) Torch Browser/71.0 Safari/71.0
+Mozilla/5.0 (Android/Android 2; x86; de-DE) AppleWebKit/92.0 (KHTML, like Gecko) Epic Privacy Browser/92.0 Safari/92.0
+Mozilla/5.0 (Linux/ARM64; en-US) AppleWebKit/90.0 (KHTML, like Gecko) Internet Explorer/90.0 Safari/90.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_13_6; x86; de-DE) AppleWebKit/50.0 (KHTML, like Gecko) Pale Moon/50.0 Safari/50.0
+Mozilla/5.0 (Windows NT/6.1; Win64; fr-FR) AppleWebKit/86.0 (KHTML, like Gecko) Otter Browser/86.0 Safari/86.0
+Mozilla/5.0 (Bada/1.2; ARM; de-DE) AppleWebKit/55.0 (KHTML, like Gecko) Safari/55.0 Safari/55.0
+Mozilla/5.0 (Windows CE/6.0; ARM; en-GB) AppleWebKit/98.0 (KHTML, like Gecko) Konqueror/98.0 Safari/98.0
+Mozilla/5.0 (Android/Android 7; x86; fr-FR) AppleWebKit/56.0 (KHTML, like Gecko) Slimjet/56.0 Safari/56.0
+Mozilla/5.0 (Windows NT/6.0; Win32; fr-FR) AppleWebKit/67.0 (KHTML, like Gecko) Waterfox/67.0 Safari/67.0
+Mozilla/5.0 (Windows Phone/7.0; ARM; fr-FR) AppleWebKit/99.0 (KHTML, like Gecko) Midori/99.0 Safari/99.0
+Mozilla/5.0 (BlackBerry/10.2; ARM; fr-FR) AppleWebKit/57.0 (KHTML, like Gecko) Waterfox/57.0 Safari/57.0
+Mozilla/5.0 (Chrome OS/13421.60.0; x86; fr-FR) AppleWebKit/85.0 (KHTML, like Gecko) Cent Browser/85.0 Safari/85.0
+Mozilla/5.0 (Android/Android 5; ARM; de-DE) AppleWebKit/86.0 (KHTML, like Gecko) Samsung Internet/86.0 Safari/86.0
+Mozilla/5.0 (Windows NT/2.1; Win32; en-GB) AppleWebKit/69.0 (KHTML, like Gecko) Opera/69.0 Safari/69.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_14_6; x86; en-US) AppleWebKit/63.0 (KHTML, like Gecko) Firefox/63.0 Safari/63.0
+Mozilla/5.0 (webOS/2.2; ARM; en-US) AppleWebKit/97.0 (KHTML, like Gecko) Waterfox/97.0 Safari/97.0
+Mozilla/5.0 (Windows Phone/7.5; ARM; en-GB) AppleWebKit/74.0 (KHTML, like Gecko) Pale Moon/74.0 Safari/74.0
+Mozilla/5.0 (Windows CE/6.0; x86; fr-FR) AppleWebKit/78.0 (KHTML, like Gecko) Internet Explorer/78.0 Safari/78.0
+Mozilla/5.0 (X11/Arch Linux; x86; fr-FR) AppleWebKit/55.0 (KHTML, like Gecko) Internet Explorer/55.0 Safari/55.0
+Mozilla/5.0 (webOS/3.0; ARM; fr-FR) AppleWebKit/69.0 (KHTML, like Gecko) Waterfox/69.0 Safari/69.0
+Mozilla/5.0 (Windows NT/5.1; Win64; en-US) AppleWebKit/70.0 (KHTML, like Gecko) Cent Browser/70.0 Safari/70.0
+Mozilla/5.0 (Chrome OS/13421.64.0; x86; de-DE) AppleWebKit/77.0 (KHTML, like Gecko) Qutebrowser/77.0 Safari/77.0
+Mozilla/5.0 (Symbian/Anna; x86; en-GB) AppleWebKit/64.0 (KHTML, like Gecko) Pale Moon/64.0 Safari/64.0
+Mozilla/5.0 (Tizen/3.0; ARM; de-DE) AppleWebKit/99.0 (KHTML, like Gecko) Torch Browser/99.0 Safari/99.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_14_6; x86_64; en-US) AppleWebKit/93.0 (KHTML, like Gecko) SeaMonkey/93.0 Safari/93.0
+Mozilla/5.0 (BlackBerry/7.1; ARM; fr-FR) AppleWebKit/84.0 (KHTML, like Gecko) Konqueror/84.0 Safari/84.0
+Mozilla/5.0 (Symbian/Anna; ARM; en-US) AppleWebKit/67.0 (KHTML, like Gecko) 360 Secure Browser/67.0 Safari/67.0
+Mozilla/5.0 (Bada/1.0; ARM; de-DE) AppleWebKit/96.0 (KHTML, like Gecko) Konqueror/96.0 Safari/96.0
+Mozilla/5.0 (Android/Android 10; x86; en-US) AppleWebKit/87.0 (KHTML, like Gecko) Pale Moon/87.0 Safari/87.0
+Mozilla/5.0 (Chrome OS/13421.67.0; x86; en-US) AppleWebKit/73.0 (KHTML, like Gecko) Vivaldi/73.0 Safari/73.0
+Mozilla/5.0 (Chrome OS/13421.61.0; x86_64; en-GB) AppleWebKit/73.0 (KHTML, like Gecko) 360 Secure Browser/73.0 Safari/73.0
+Mozilla/5.0 (Windows NT/6.1; Win64; en-US) AppleWebKit/93.0 (KHTML, like Gecko) Lunascape/93.0 Safari/93.0
+Mozilla/5.0 (webOS/3.0; ARM; en-US) AppleWebKit/58.0 (KHTML, like Gecko) Cent Browser/58.0 Safari/58.0
+Mozilla/5.0 (Android/Android 2; x86; en-GB) AppleWebKit/66.0 (KHTML, like Gecko) Brave/66.0 Safari/66.0
+Mozilla/5.0 (webOS/1.0; ARM; fr-FR) AppleWebKit/93.0 (KHTML, like Gecko) Internet Explorer/93.0 Safari/93.0
+Mozilla/5.0 (Windows NT/1.0; Win32; en-GB) AppleWebKit/78.0 (KHTML, like Gecko) GreenBrowser/78.0 Safari/78.0
+Mozilla/5.0 (Symbian/Anna; x86; en-US) AppleWebKit/99.0 (KHTML, like Gecko) Vivaldi/99.0 Safari/99.0
+Mozilla/5.0 (Windows Phone/7.0; ARM; en-US) AppleWebKit/95.0 (KHTML, like Gecko) Lunascape/95.0 Safari/95.0
+Mozilla/5.0 (webOS/3.0; ARM; en-GB) AppleWebKit/57.0 (KHTML, like Gecko) Maxthon/57.0 Safari/57.0
+Mozilla/5.0 (webOS/2.2; ARM; en-US) AppleWebKit/95.0 (KHTML, like Gecko) Chrome/95.0 Safari/95.0
+Mozilla/5.0 (Symbian/S60; ARM; en-GB) AppleWebKit/54.0 (KHTML, like Gecko) Slimjet/54.0 Safari/54.0
+Mozilla/5.0 (Macintosh/Intel Mac OS X 10_14_6; x86; en-US) AppleWebKit/96.0 (KHTML, like Gecko) Qutebrowser/96.0 Safari/96.0
+Mozilla/5.0 (Windows Phone/10.0; ARM; de-DE) AppleWebKit/73.0 (KHTML, like Gecko) Qutebrowser/73.0 Safari/73.0
+Mozilla/5.0 (Linux/x86_64; fr-FR) AppleWebKit/51.0 (KHTML, like Gecko) Slimjet/51.0 Safari/51.0
+Mozilla/5.0 (Windows CE/6.0; x86; en-GB) AppleWebKit/87.0 (KHTML, like Gecko) Waterfox/87.0 Safari/87.0
+Mozilla/5.0 (Chrome OS/13421.62.0; x86_64; en-US) AppleWebKit/94.0 (KHTML, like Gecko) GreenBrowser/94.0 Safari/94.0
+Mozilla/5.0 (Tizen/4.0; ARM; fr-FR) AppleWebKit/94.0 (KHTML, like Gecko) Pale Moon/94.0 Safari/94.0
+Mozilla/5.0 (Chrome OS/13421.67.0; x86_64; en-US) AppleWebKit/58.0 (KHTML, like Gecko) Waterfox/58.0 Safari/58.0
+Mozilla/5.0 (webOS/3.0; ARM; en-US) AppleWebKit/57.0 (KHTML, like Gecko) Firefox/57.0 Safari/57.0
+Mozilla/5.0 (Windows Phone/8.0; ARM; en-US) AppleWebKit/56.0 (KHTML, like Gecko) IceCat/56.0 Safari/56.0
+Mozilla/5.0 (Android/Android 2; x86_64; en-GB) AppleWebKit/97.0 (KHTML, like Gecko) Epic Privacy Browser/97.0 Safari/97.0
+Mozilla/5.0 (Windows CE/5.0; ARM; fr-FR) AppleWebKit/83.0 (KHTML, like Gecko) Torch Browser/83.0 Safari/83.0
+Mozilla/5.0 (Windows Phone/8.0; ARM; de-DE) AppleWebKit/58.0 (KHTML, like Gecko) Vivaldi/58.0 Safari/58.0
+Mozilla/5.0 (X11/Raspbian; x86; de-DE) AppleWebKit/63.0 (KHTML, like Gecko) Mozilla/63.0 Safari/63.0
+Mozilla/5.0 (Bada/2.0; ARM; en-GB) AppleWebKit/92.0 (KHTML, like Gecko) Samsung Internet/92.0 Safari/92.0
+Mozilla/5.0 (webOS/2.2; ARM; en-GB) AppleWebKit/69.0 (KHTML, like Gecko) 360 Secure Browser/69.0 Safari/69.0
